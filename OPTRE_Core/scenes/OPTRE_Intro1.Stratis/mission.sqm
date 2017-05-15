@@ -1,0 +1,708 @@
+version=52;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=513;
+	class ItemIDProvider
+	{
+		nextID=17;
+	};
+	class Camera
+	{
+		pos[]={2592.8157,98.646988,2989.5793};
+		dir[]={0.94563788,-0.27125451,0.18001507};
+		up[]={0.26653665,0.96248782,0.050739564};
+		aside[]={0.18702219,-4.7002686e-007,-0.98245555};
+	};
+};
+binarizationWanted=0;
+addons[]=
+{
+	"A3_Characters_F",
+	"OPTRE_Vehicles_Pelican",
+	"A3_Modules_F_Effects",
+	"OPTRE_UNSC_Units_Airforce"
+};
+class AddonsMetaData
+{
+	class List
+	{
+		items=4;
+		class Item0
+		{
+			className="A3_Characters_F";
+			name="Arma 3 Alpha - Characters and Clothing";
+			author="Bohemia Interactive";
+			url="http://www.arma3.com";
+		};
+		class Item1
+		{
+			className="OPTRE_Vehicles_Pelican";
+			name="OPTRE_Vehicles_Pelican";
+		};
+		class Item2
+		{
+			className="A3_Modules_F";
+			name="Arma 3 Alpha - Scripted Modules";
+			author="Bohemia Interactive";
+			url="http://www.arma3.com";
+		};
+		class Item3
+		{
+			className="OPTRE_UNSC_Units_Airforce";
+			name="OPTRE_UNSC_Units_Airforce";
+		};
+	};
+};
+randomSeed=1049255;
+class ScenarioData
+{
+	author="Scorch052";
+};
+class Intro
+{
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=1;
+		startWind=0;
+		startRain=0.25431296;
+		startLightnings=0.6914677;
+		startWaves=0.1;
+		forecastWeather=1;
+		forecastWind=0;
+		forecastWaves=0.1;
+		forecastRain=0.24598634;
+		rainForced=1;
+		lightningsForced=1;
+		windForced=1;
+		year=2035;
+		month=7;
+		day=6;
+		hour=20;
+		minute=-30;
+		startFogDecay=0.014;
+		forecastFogDecay=0.014;
+	};
+	class Entities
+	{
+		items=5;
+		class Item0
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2571.7263,88.657753,2989.7153};
+						angles[]={0,1.3318065,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						init="intro = [] execVM ""intro.sqf""; this setcaptive true;";
+						isPlayer=1;
+					};
+					id=10;
+					type="B_Competitor_F";
+					atlOffset=-7.6293945e-006;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="allowDamage";
+							expression="_this allowdamage _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute1
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=1.02;
+								};
+							};
+						};
+						class Attribute2
+						{
+							property="hideObject";
+							expression="if !(is3DEN) then {_this hideobjectglobal _value;};";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=1;
+								};
+							};
+						};
+						class Attribute3
+						{
+							property="enableStamina";
+							expression="_this enablestamina _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						nAttributes=4;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=9;
+			atlOffset=-7.6293945e-006;
+		};
+		class Item1
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={2610.8193,100.66138,2994.3184};
+				angles[]={6.2531939,0,0.16839033};
+			};
+			side="Empty";
+			flags=4;
+			class Attributes
+			{
+				createAsSimpleObject=1;
+			};
+			id=11;
+			type="OPTRE_Objects_Wreck_Pelican_Static1";
+		};
+		class Item2
+		{
+			dataType="Logic";
+			class PositionInfo
+			{
+				position[]={2602.241,95.294922,2997.9319};
+				angles[]={0.0025135824,0,0.16352737};
+			};
+			id=12;
+			type="ModuleSmoke_F";
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ModuleSmoke_F_Repeat";
+					expression="_this setVariable ['Repeat',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ModuleSmoke_F_Type";
+					expression="_this setVariable ['Type',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="SmokeShellPurple";
+						};
+					};
+				};
+				nAttributes=2;
+			};
+		};
+		class Item3
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2602.9766,95.075218,2989.9519};
+						angles[]={0,3.926338,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						init="this disableAI ""MOVE""; this disableAI ""ANIM""; [this, ""KNEEL"", ""ASIS""] call BIS_fnc_ambientAnim;";
+					};
+					id=14;
+					type="OPTRE_UNSC_Airforce_Soldier_Airman";
+					atlOffset=0.0043945313;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=0.97000003;
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=13;
+			atlOffset=0.0043945313;
+		};
+		class Item4
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2603.6221,95.305389,2991.2839};
+						angles[]={0,4.8572164,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						health=0.25;
+						init="this disableAI ""MOVE""; this disableAI ""ANIM""; [this, ""PRONE_INJURED"", ""ASIS""] call BIS_fnc_ambientAnim;";
+					};
+					id=16;
+					type="OPTRE_UNSC_Airforce_Soldier_Airman";
+					atlOffset=7.6293945e-006;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=0.97000003;
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=15;
+			atlOffset=7.6293945e-006;
+		};
+	};
+};
+class Mission
+{
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.30000001;
+		startWind=0;
+		startWaves=0.1;
+		forecastWeather=0.30000001;
+		forecastWind=0;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		windForced=1;
+		year=2035;
+		month=7;
+		day=6;
+		hour=12;
+		minute=0;
+		startFogDecay=0.014;
+		forecastFogDecay=0.014;
+	};
+	class Entities
+	{
+		items=5;
+		class Item0
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2571.856,88.659737,2989.459};
+						angles[]={0,1.3318083,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						isPlayer=1;
+					};
+					id=1;
+					type="B_Competitor_F";
+					atlOffset=-7.6293945e-006;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="allowDamage";
+							expression="_this allowdamage _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute1
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=1.02;
+								};
+							};
+						};
+						class Attribute2
+						{
+							property="hideObject";
+							expression="if !(is3DEN) then {_this hideobjectglobal _value;};";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=1;
+								};
+							};
+						};
+						class Attribute3
+						{
+							property="enableStamina";
+							expression="_this enablestamina _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						nAttributes=4;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=0;
+			atlOffset=-7.6293945e-006;
+		};
+		class Item1
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={2610.9495,100.67581,2994.062};
+				angles[]={6.2531939,0,0.16839033};
+			};
+			side="Empty";
+			flags=4;
+			class Attributes
+			{
+				createAsSimpleObject=1;
+			};
+			id=2;
+			type="OPTRE_Objects_Wreck_Pelican_Static1";
+		};
+		class Item2
+		{
+			dataType="Logic";
+			class PositionInfo
+			{
+				position[]={2603.45,95.443649,2994.5178};
+				angles[]={6.2457047,0,0.16352554};
+			};
+			id=4;
+			type="ModuleSmoke_F";
+			atlOffset=-7.6293945e-006;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ModuleSmoke_F_Repeat";
+					expression="_this setVariable ['Repeat',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ModuleSmoke_F_Type";
+					expression="_this setVariable ['Type',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="SmokeShellPurple";
+						};
+					};
+				};
+				nAttributes=2;
+			};
+		};
+		class Item3
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2603.1069,95.069649,2989.696};
+						angles[]={0,3.9263449,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						init="this disableAI ""MOVE""; this disableAI ""ANIM""; [this, ""KNEEL"", ""ASIS""] call BIS_fnc_ambientAnim;";
+					};
+					id=6;
+					type="OPTRE_UNSC_Airforce_Soldier_Airman";
+					atlOffset=7.6293945e-006;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=0.97000003;
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=5;
+			atlOffset=7.6293945e-006;
+		};
+		class Item4
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={2603.752,95.304131,2991.0281};
+						angles[]={0,4.8572164,0};
+					};
+					side="West";
+					flags=7;
+					class Attributes
+					{
+						health=0.25;
+						init="this disableAI ""MOVE""; this disableAI ""ANIM""; [this, ""PRONE_INJURED"", ""ASIS""] call BIS_fnc_ambientAnim;";
+					};
+					id=8;
+					type="OPTRE_UNSC_Airforce_Soldier_Airman";
+					atlOffset=7.6293945e-006;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=0.97000003;
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=7;
+			atlOffset=7.6293945e-006;
+		};
+	};
+};
