@@ -1,0 +1,993 @@
+<?xml version="1.0" ?>
+<Library name="OPTRE_Vehicles" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Cart</Name>
+        <File>OPTRE_Vehicles\Cart\Cart.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1568579168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>forklift</Name>
+        <File>OPTRE_Vehicles\Cart\forklift.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-298596979</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>tow_trailer</Name>
+        <File>OPTRE_Vehicles\Cart\tow_trailer.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-116768240</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Falcon</Name>
+        <File>OPTRE_Vehicles\falcon\Falcon.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1631469103</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>falcon_wreck</Name>
+        <File>optre_vehicles\falcon\falcon_wreck.p3d</File>
+        <Date>07/03/16 22:00:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-15746108</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.826112</BBRadius>
+        <BBHScale>1.038596</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.029783</XShift>
+        <YShift>0.053750</YShift>
+        <ZShift>-0.002707</ZShift>
+        <Height>1.867165</Height>
+        <BoundingMin X="-5.802609" Y="-0.007708" Z="-7.353748" />
+        <BoundingMax X="5.828123" Y="3.732037" Z="4.405975" />
+        <BoundingCenter X="0.012757" Y="1.862165" Z="-1.473886" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rotorblur_1</Name>
+        <File>OPTRE_Vehicles\falcon\rotorblur_1.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-252522157</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rotorblur_2</Name>
+        <File>OPTRE_Vehicles\falcon\rotorblur_2.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-252522156</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rotor_blur</Name>
+        <File>OPTRE_Vehicles\falcon\rotor_blur.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1529345836</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>genet</Name>
+        <File>OPTRE_Vehicles\genet\genet.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-438675585</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hev_chute</Name>
+        <File>OPTRE_Vehicles\hev\hev_chute.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1878070395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hev_door</Name>
+        <File>OPTRE_Vehicles\hev\hev_door.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1894923724</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hev_pod</Name>
+        <File>OPTRE_Vehicles\hev\hev_pod.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1954256961</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HEVanim</Name>
+        <File>OPTRE_Vehicles\hev\data\anim\HEVanim.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-551939926</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>testanim</Name>
+        <File>OPTRE_Vehicles\hev\data\anim\testanim.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-139969725</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Longsword</Name>
+        <File>OPTRE_Vehicles\Longsword\Longsword.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1382899327</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pelican_base</Name>
+        <File>OPTRE_Vehicles\Pelican\pelican_base.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1908788142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pelican_wreck</Name>
+        <File>OPTRE_Vehicles\Pelican\pelican_wreck.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-686444847</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pelican_wreck_static1</Name>
+        <File>optre_vehicles\pelican\pelican_wreck_static1.p3d</File>
+        <Date>07/03/16 22:00:13</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>250741141</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.719978</BBRadius>
+        <BBHScale>0.787176</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.025283</XShift>
+        <YShift>0.021302</YShift>
+        <ZShift>0.356854</ZShift>
+        <Height>5.389246</Height>
+        <BoundingMin X="-11.428452" Y="-1.763555" Z="-8.816107" />
+        <BoundingMax X="10.253482" Y="9.728645" Z="18.953197" />
+        <BoundingCenter X="-0.587485" Y="3.982545" Z="5.068545" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pelican_wreck_static2</Name>
+        <File>optre_vehicles\pelican\pelican_wreck_static2.p3d</File>
+        <Date>07/03/16 22:00:13</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>250741142</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.709729</BBRadius>
+        <BBHScale>0.672341</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.053865</XShift>
+        <YShift>-0.000041</YShift>
+        <ZShift>0.421770</ZShift>
+        <Height>3.170301</Height>
+        <BoundingMin X="-11.003889" Y="-1.016641" Z="-10.909998" />
+        <BoundingMax X="10.228421" Y="6.167503" Z="20.509542" />
+        <BoundingCenter X="-0.387734" Y="2.575431" Z="4.799772" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pod</Name>
+        <File>OPTRE_Vehicles\Pod\pod.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>932570149</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pod_wreck</Name>
+        <File>optre_vehicles\pod\pod_wreck.p3d</File>
+        <Date>07/03/16 22:00:19</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1882507320</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.019145</BBRadius>
+        <BBHScale>0.461939</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>-0.160498</YShift>
+        <ZShift>-0.294791</ZShift>
+        <Height>1.504817</Height>
+        <BoundingMin X="-1.909312" Y="-0.372474" Z="-5.377243" />
+        <BoundingMax X="1.912341" Y="3.428439" Z="2.982043" />
+        <BoundingCenter X="0.001514" Y="1.527982" Z="-1.197600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>scorpion_base</Name>
+        <File>OPTRE_Vehicles\Scorpion\scorpion_base.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1030800421</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2093220852</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_AA</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_AA.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1916142635</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_apc</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_apc.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>795280041</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_AT</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_AT.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1916142654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_g</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_g.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1299734972</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_mg</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_mg.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1919029029</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>warthog_TT</Name>
+        <File>OPTRE_Vehicles\Warthog\warthog_TT.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1917389035</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>damage_wheel_hog</Name>
+        <File>OPTRE_Vehicles\Warthog\proxies\damage_wheel_hog.p3d</File>
+        <Date>05/17/17 12:42:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2107226380</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
