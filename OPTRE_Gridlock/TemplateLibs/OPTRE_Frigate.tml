@@ -1,0 +1,2973 @@
+<?xml version="1.0" ?>
+<Library name="OPTRE_Frigate" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>barracks_bay</Name>
+        <File>optre_frigate\interior\barracks_bay.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1220440540</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.327881</BBRadius>
+        <BBHScale>1.464286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.556621</XShift>
+        <YShift>-0.142889</YShift>
+        <ZShift>-0.115767</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.888760" Y="-0.757436" Z="-16.389732" />
+        <BoundingMax X="16.794460" Y="9.236753" Z="6.553586" />
+        <BoundingCenter X="-0.547150" Y="4.239659" Z="-4.918074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cryo_bay</Name>
+        <File>optre_frigate\interior\cryo_bay.p3d</File>
+        <Date>07/03/16 21:59:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-770205408</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.327881</BBRadius>
+        <BBHScale>1.464286</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.556621</XShift>
+        <YShift>0.171707</YShift>
+        <ZShift>-0.115767</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.888760" Y="-0.757436" Z="-10.921759" />
+        <BoundingMax X="16.794460" Y="9.236753" Z="12.085879" />
+        <BoundingCenter X="-0.547150" Y="4.239659" Z="0.582060" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cryo_tube</Name>
+        <File>optre_frigate\interior\cryo_tube.p3d</File>
+        <Date>07/03/16 21:59:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1674867426</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.170263</BBRadius>
+        <BBHScale>0.411707</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.037398</YShift>
+        <ZShift>-0.003994</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.902215" Y="-0.003801" Z="-2.279005" />
+        <BoundingMax X="0.884811" Y="5.048970" Z="2.137548" />
+        <BoundingCenter X="-0.008702" Y="2.522584" Z="-0.070728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a</Name>
+        <File>optre_frigate\interior\hallway_a.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1326916520</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681284</BBRadius>
+        <BBHScale>0.913058</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.395793" Y="-0.002589" Z="-3.651958" />
+        <BoundingMax X="3.326656" Y="5.000782" Z="3.710610" />
+        <BoundingCenter X="-0.034568" Y="2.499096" Z="0.029326" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_short</Name>
+        <File>optre_frigate\interior\hallway_a_short.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>874987317</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681284</BBRadius>
+        <BBHScale>0.478269</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000106</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.395793" Y="-0.002589" Z="-3.651958" />
+        <BoundingMax X="0.125703" Y="5.000782" Z="3.710610" />
+        <BoundingCenter X="-1.635045" Y="2.499096" Z="0.029326" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_strch</Name>
+        <File>optre_frigate\interior\hallway_a_strch.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1675899631</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.347888</BBRadius>
+        <BBHScale>0.908797</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.010583</XShift>
+        <YShift>0.005949</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.971294" Y="-0.002589" Z="-4.480330" />
+        <BoundingMax X="3.980397" Y="5.000782" Z="4.264288" />
+        <BoundingCenter X="0.004551" Y="2.499096" Z="-0.108021" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_strch_short</Name>
+        <File>optre_frigate\interior\hallway_a_strch_short.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2115257164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.347888</BBRadius>
+        <BBHScale>0.469524</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.006851</XShift>
+        <YShift>0.005949</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.971294" Y="-0.002589" Z="-4.480330" />
+        <BoundingMax X="0.125703" Y="5.000782" Z="4.264288" />
+        <BoundingCenter X="-1.922795" Y="2.499096" Z="-0.108021" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_strch_super_short</Name>
+        <File>optre_frigate\interior\hallway_a_strch_super_short.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1391808600</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.347888</BBRadius>
+        <BBHScale>0.279030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.006851</XShift>
+        <YShift>0.005949</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.971294" Y="-0.002589" Z="-4.480330" />
+        <BoundingMax X="-1.530790" Y="5.000782" Z="4.264288" />
+        <BoundingCenter X="-2.751042" Y="2.499096" Z="-0.108021" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_b</Name>
+        <File>optre_frigate\interior\hallway_b.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1326916519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.361222</BBRadius>
+        <BBHScale>1.428578</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.179226</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.056175</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.731385" Y="-0.004626" Z="-3.004085" />
+        <BoundingMax X="5.238103" Y="5.009717" Z="3.718360" />
+        <BoundingCenter X="0.253359" Y="2.502546" Z="0.357138" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_build</Name>
+        <File>optre_frigate\interior\hallway_build.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-8928891</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.965431</BBRadius>
+        <BBHScale>0.540112</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.961854" Y="0.045496" Z="-12.009562" />
+        <BoundingMax X="6.204174" Y="4.847302" Z="17.921301" />
+        <BoundingCenter X="-1.878840" Y="2.446399" Z="2.955869" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_b_short</Name>
+        <File>optre_frigate\interior\hallway_b_short.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>173157814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.762707</BBRadius>
+        <BBHScale>2.724087</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.177732</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.054365</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.731385" Y="-0.004626" Z="-3.006749" />
+        <BoundingMax X="5.238103" Y="5.009717" Z="0.518666" />
+        <BoundingCenter X="0.253359" Y="2.502546" Z="-1.244042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_door_a</Name>
+        <File>optre_frigate\interior\hallway_door_a.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1323591897</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.551661</BBRadius>
+        <BBHScale>0.036053</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000011</XShift>
+        <YShift>-0.009900</YShift>
+        <ZShift>-0.009428</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.188592" Y="0.663853" Z="-3.301266" />
+        <BoundingMax X="0.067526" Y="3.959786" Z="3.851986" />
+        <BoundingCenter X="-0.060533" Y="2.311820" Z="0.275360" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_door_b</Name>
+        <File>optre_frigate\interior\hallway_door_b.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1323591898</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.739462</BBRadius>
+        <BBHScale>0.046742</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.186273" Y="-0.002901" Z="-2.766605" />
+        <BoundingMax X="0.069823" Y="3.229873" Z="2.712319" />
+        <BoundingCenter X="-0.058225" Y="1.613486" Z="-0.027143" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_door_b_2</Name>
+        <File>optre_frigate\interior\hallway_door_b_2.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1092045971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.003211</BBRadius>
+        <BBHScale>0.031986</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.043752</XShift>
+        <YShift>0.004110</YShift>
+        <ZShift>-0.002360</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.273777" Y="-0.524426" Z="-4.016740" />
+        <BoundingMax X="0.069823" Y="4.708786" Z="3.997902" />
+        <BoundingCenter X="-0.101977" Y="2.092180" Z="-0.009419" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_turn_45</Name>
+        <File>optre_frigate\interior\hallway_turn_45.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-867906534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.282156</BBRadius>
+        <BBHScale>1.379759</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.033709</XShift>
+        <YShift>-0.110634</YShift>
+        <ZShift>-0.056538</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.826589" Y="-0.003928" Z="-3.710510" />
+        <BoundingMax X="5.728094" Y="5.009717" Z="3.075069" />
+        <BoundingCenter X="0.950752" Y="2.502895" Z="-0.317720" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_turn_90</Name>
+        <File>optre_frigate\interior\hallway_turn_90.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-867578544</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.641694</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.137682</XShift>
+        <YShift>-0.141978</YShift>
+        <ZShift>-0.056538</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.844866" Y="-0.003928" Z="-3.710510" />
+        <BoundingMax X="5.728094" Y="5.009717" Z="5.856833" />
+        <BoundingCenter X="0.941614" Y="2.502895" Z="1.073162" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_turn_90_b</Name>
+        <File>optre_frigate\interior\hallway_turn_90_b.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1375157523</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.160720</BBRadius>
+        <BBHScale>1.000333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.104457</XShift>
+        <YShift>-0.144432</YShift>
+        <ZShift>-0.055569</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.920058" Y="-0.003928" Z="-3.712259" />
+        <BoundingMax X="4.776607" Y="5.009717" Z="4.898045" />
+        <BoundingCenter X="0.428275" Y="2.502895" Z="0.592893" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_T_a</Name>
+        <File>optre_frigate\interior\hallway_t_a.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>931692173</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681288</BBRadius>
+        <BBHScale>1.260902</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.128207</XShift>
+        <YShift>0.315936</YShift>
+        <ZShift>-0.056677</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.411500" Y="-0.004626" Z="-4.432395" />
+        <BoundingMax X="5.157969" Y="5.010706" Z="3.572154" />
+        <BoundingCenter X="0.373234" Y="2.503040" Z="-0.430121" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_T_b</Name>
+        <File>optre_frigate\interior\hallway_t_b.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>931692174</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.403829</BBRadius>
+        <BBHScale>0.808716</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.318462</YShift>
+        <ZShift>-0.056670</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.975693" Y="-0.004626" Z="-4.432395" />
+        <BoundingMax X="5.234354" Y="5.010706" Z="15.012184" />
+        <BoundingCenter X="-2.370670" Y="2.503040" Z="5.289894" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_wide_a</Name>
+        <File>optre_frigate\interior\hallway_wide_a.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1450419390</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.890016</BBRadius>
+        <BBHScale>0.699998</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.455708" Y="-0.061099" Z="-4.912998" />
+        <BoundingMax X="3.390292" Y="4.828901" Z="4.867034" />
+        <BoundingCenter X="-0.032708" Y="2.383901" Z="-0.022982" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_X_a</Name>
+        <File>optre_frigate\interior\hallway_x_a.p3d</File>
+        <Date>07/03/16 21:59:35</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>964738193</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681288</BBRadius>
+        <BBHScale>1.183875</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.005553</XShift>
+        <YShift>0.000517</YShift>
+        <ZShift>-0.056681</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.411500" Y="-0.004626" Z="-3.801558" />
+        <BoundingMax X="4.323332" Y="5.010706" Z="3.572154" />
+        <BoundingCenter X="-0.044084" Y="2.503040" Z="-0.114702" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>doorbuild</Name>
+        <File>optre_frigate\old\doorbuild.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1599422144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>54.460304</BBRadius>
+        <BBHScale>0.999707</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.006285</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.078468</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-54.420715" Y="-13.498823" Z="-122.818520" />
+        <BoundingMax X="54.480499" Y="-0.435676" Z="-13.897907" />
+        <BoundingCenter X="0.029892" Y="-6.967249" Z="-68.358215" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>finaldawn_geo</Name>
+        <File>optre_frigate\old\finaldawn_geo.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>57896892</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>264.993195</BBRadius>
+        <BBHScale>0.402652</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-106.551842" Y="-97.310692" Z="-291.177460" />
+        <BoundingMax X="106.848495" Y="54.705482" Z="238.808945" />
+        <BoundingCenter X="0.148327" Y="-21.302605" Z="-26.184258" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_cuts</Name>
+        <File>optre_frigate\old\frigate_cuts.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1769008728</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>277.465637</BBRadius>
+        <BBHScale>0.388530</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-107.769806" Y="-95.497604" Z="-316.673035" />
+        <BoundingMax X="107.837929" Y="66.870804" Z="238.258270" />
+        <BoundingCenter X="0.034061" Y="-14.313400" Z="-39.207382" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_2</Name>
+        <File>optre_frigate\old\frigate_part_2.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>34.763397</BBRadius>
+        <BBHScale>1.521752</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-52.860489" Y="-44.020748" Z="-220.637848" />
+        <BoundingMax X="52.942036" Y="39.686543" Z="-151.111053" />
+        <BoundingCenter X="0.040773" Y="-2.167103" Z="-185.874451" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_3</Name>
+        <File>optre_frigate\old\frigate_part_3.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208350</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>33.396557</BBRadius>
+        <BBHScale>1.630238</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-54.420715" Y="-48.192982" Z="-151.111084" />
+        <BoundingMax X="54.467930" Y="39.686550" Z="-84.317970" />
+        <BoundingCenter X="0.023607" Y="-4.253216" Z="-117.714523" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_4</Name>
+        <File>optre_frigate\old\frigate_part_4.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208351</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.734276</BBRadius>
+        <BBHScale>1.663221</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-54.420715" Y="-90.605362" Z="-84.736305" />
+        <BoundingMax X="54.467930" Y="55.448360" Z="-19.267750" />
+        <BoundingCenter X="0.023607" Y="-17.578501" Z="-52.002029" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_5</Name>
+        <File>optre_frigate\old\frigate_part_5.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208352</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.357815</BBRadius>
+        <BBHScale>3.523108</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-103.396675" Y="-95.497604" Z="-19.397909" />
+        <BoundingMax X="103.464813" Y="66.870804" Z="39.317719" />
+        <BoundingCenter X="0.034069" Y="-14.313400" Z="9.959905" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_6</Name>
+        <File>optre_frigate\old\frigate_part_6.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208353</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.819040</BBRadius>
+        <BBHScale>3.388030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-107.769806" Y="-95.497604" Z="39.317692" />
+        <BoundingMax X="107.837929" Y="46.286304" Z="102.955772" />
+        <BoundingCenter X="0.034061" Y="-24.605650" Z="71.136734" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_6_b</Name>
+        <File>optre_frigate\old\frigate_part_6_b.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-266781020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.374878</BBRadius>
+        <BBHScale>1.142885</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.450058</YShift>
+        <ZShift>-0.010082</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-36.966698" Y="-95.497604" Z="39.106121" />
+        <BoundingMax X="37.034817" Y="16.586029" Z="102.955765" />
+        <BoundingCenter X="0.034060" Y="-39.455788" Z="71.030945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7</Name>
+        <File>optre_frigate\old\frigate_part_7.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208354</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.769196</BBRadius>
+        <BBHScale>3.226961</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-105.710815" Y="-77.850021" Z="102.955750" />
+        <BoundingMax X="105.778992" Y="46.286304" Z="168.494141" />
+        <BoundingCenter X="0.034088" Y="-15.781858" Z="135.724945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_8</Name>
+        <File>optre_frigate\old\frigate_part_8.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208355</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.007278</BBRadius>
+        <BBHScale>2.955746</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-103.438545" Y="-54.736385" Z="168.243713" />
+        <BoundingMax X="103.506668" Y="30.183088" Z="238.258270" />
+        <BoundingCenter X="0.034061" Y="-12.276649" Z="203.250992" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>interior</Name>
+        <File>optre_frigate\old\interior.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1388422288</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>142.819916</BBRadius>
+        <BBHScale>0.374075</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.268049</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-53.400536" Y="-89.466972" Z="-123.424080" />
+        <BoundingMax X="53.986328" Y="54.705482" Z="162.215759" />
+        <BoundingCenter X="0.292896" Y="-17.380745" Z="19.395840" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>interior_build</Name>
+        <File>optre_frigate\old\interior_build.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1736407457</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>114.376770</BBRadius>
+        <BBHScale>0.299490</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-2.242988</XShift>
+        <YShift>-2.899414</YShift>
+        <ZShift>1.644971</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-18.677713" Y="-14.108626" Z="-107.112122" />
+        <BoundingMax X="23.223110" Y="-11.410847" Z="115.484032" />
+        <BoundingCenter X="2.272698" Y="-12.759737" Z="4.185955" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cargo_door</Name>
+        <File>optre_frigate\cargo_door.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1876163407</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.709393</BBRadius>
+        <BBHScale>0.058472</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.511896" Y="0.028910" Z="-8.514355" />
+        <BoundingMax X="0.506616" Y="13.083705" Z="8.904430" />
+        <BoundingCenter X="-0.002640" Y="6.556308" Z="0.195038" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>console</Name>
+        <File>optre_frigate\console.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1123167657</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.300988</BBRadius>
+        <BBHScale>0.664478</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000002</XShift>
+        <YShift>0.003394</YShift>
+        <ZShift>0.000727</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.200000" Y="-0.000893" Z="-0.330304" />
+        <BoundingMax X="0.200005" Y="1.197553" Z="0.278459" />
+        <BoundingCenter X="0.000002" Y="0.598330" Z="-0.025923" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>finaldawn_complex</Name>
+        <File>optre_frigate\finaldawn_complex.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1660911749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>277.816925</BBRadius>
+        <BBHScale>0.388530</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.568367</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-2.134197</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-107.950165" Y="-97.301186" Z="-316.986603" />
+        <BoundingMax X="109.067261" Y="72.784241" Z="238.647232" />
+        <BoundingCenter X="0.558548" Y="-12.258472" Z="-39.169685" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_hangar_A</Name>
+        <File>optre_frigate\frigate_hangar_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039309252</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.605139</BBRadius>
+        <BBHScale>0.850154</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.175207</XShift>
+        <YShift>-0.621561</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-27.459751" Y="-89.286324" Z="-23.765942" />
+        <BoundingMax X="28.342947" Y="-11.289185" Z="40.687458" />
+        <BoundingCenter X="0.441598" Y="-50.287754" Z="8.460758" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_hangar_B1</Name>
+        <File>optre_frigate\frigate_hangar_b1.p3d</File>
+        <Date>07/03/16 21:59:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-880676076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.042612</BBRadius>
+        <BBHScale>0.329427</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.026814</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.054619</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.720854" Y="-65.150955" Z="-19.698322" />
+        <BoundingMax X="-12.593587" Y="-60.136612" Z="10.386902" />
+        <BoundingCenter X="-17.657221" Y="-62.643784" Z="-4.655710" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_hangar_B2</Name>
+        <File>optre_frigate\frigate_hangar_b2.p3d</File>
+        <Date>07/03/16 21:59:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-880676075</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.039611</BBRadius>
+        <BBHScale>0.330656</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.043119</XShift>
+        <YShift>-0.061886</YShift>
+        <ZShift>-0.054619</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="12.333971" Y="-65.150955" Z="-19.692320" />
+        <BoundingMax X="22.448702" Y="-60.136612" Z="10.510674" />
+        <BoundingCenter X="17.391336" Y="-62.643784" Z="-4.590823" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_hangar_C</Name>
+        <File>optre_frigate\frigate_hangar_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-773577634</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.441963</BBRadius>
+        <BBHScale>0.909762</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.042763</XShift>
+        <YShift>0.263637</YShift>
+        <ZShift>-0.008926</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-27.139252" Y="-90.476677" Z="-20.055126" />
+        <BoundingMax X="27.920382" Y="-64.835831" Z="39.356075" />
+        <BoundingCenter X="0.390565" Y="-77.656250" Z="9.650475" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_hangar_D</Name>
+        <File>optre_frigate\frigate_hangar_d.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-773577633</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.980423</BBRadius>
+        <BBHScale>0.893423</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.042763</XShift>
+        <YShift>0.041481</YShift>
+        <ZShift>-0.242493</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-27.139252" Y="-90.605331" Z="39.234753" />
+        <BoundingMax X="27.920382" Y="-64.449142" Z="99.278557" />
+        <BoundingCenter X="0.390565" Y="-77.527237" Z="69.256653" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_hangar_D2</Name>
+        <File>optre_frigate\frigate_hangar_d2.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-880544877</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.874519</BBRadius>
+        <BBHScale>1.228335</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.175207</XShift>
+        <YShift>-0.401779</YShift>
+        <ZShift>-0.311386</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-27.459751" Y="-64.504936" Z="39.022717" />
+        <BoundingMax X="28.342947" Y="-50.573257" Z="84.160110" />
+        <BoundingCenter X="0.441598" Y="-57.539097" Z="61.591415" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_hangar_lift_doors</Name>
+        <File>optre_frigate\frigate_hangar_lift_doors.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1925245270</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.085901</BBRadius>
+        <BBHScale>0.956763</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.025612</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.669273" Y="-51.075974" Z="-16.254097" />
+        <BoundingMax X="12.370950" Y="-50.728603" Z="9.968929" />
+        <BoundingCenter X="-0.149162" Y="-50.902290" Z="-3.142584" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_1</Name>
+        <File>optre_frigate\frigate_part_1.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1718208348</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>48.017624</BBRadius>
+        <BBHScale>0.321269</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.625122</YShift>
+        <ZShift>0.024145</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.392514" Y="-46.921776" Z="-316.673035" />
+        <BoundingMax X="15.460647" Y="41.075405" Z="-219.387527" />
+        <BoundingCenter X="0.034066" Y="-2.923185" Z="-268.030273" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_2_a</Name>
+        <File>optre_frigate\frigate_part_2_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-299827041</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.170731</BBRadius>
+        <BBHScale>0.620394</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.003799</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-52.860489" Y="-20.974464" Z="-205.452515" />
+        <BoundingMax X="-19.147362" Y="5.210106" Z="-151.103470" />
+        <BoundingCenter X="-36.003925" Y="-7.882179" Z="-178.277985" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_2_b</Name>
+        <File>optre_frigate\frigate_part_2_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-299827040</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>34.763397</BBRadius>
+        <BBHScale>0.443752</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.006714</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.392257" Y="-44.020748" Z="-220.670547" />
+        <BoundingMax X="15.460383" Y="39.686543" Z="-151.091797" />
+        <BoundingCenter X="0.034063" Y="-2.167103" Z="-185.881165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_2_c</Name>
+        <File>optre_frigate\frigate_part_2_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-299827039</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.170731</BBRadius>
+        <BBHScale>0.620394</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000797</XShift>
+        <YShift>-0.003799</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="19.228642" Y="-20.974464" Z="-205.452515" />
+        <BoundingMax X="52.943363" Y="5.210106" Z="-151.103470" />
+        <BoundingCenter X="36.086002" Y="-7.882179" Z="-178.277985" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_3_a</Name>
+        <File>optre_frigate\frigate_part_3_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-291565536</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>33.187405</BBRadius>
+        <BBHScale>0.805897</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.003031</XShift>
+        <YShift>-0.002472</YShift>
+        <ZShift>-0.003988</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-53.463612" Y="-22.108768" Z="-151.111084" />
+        <BoundingMax X="0.034064" Y="19.803001" Z="-84.731316" />
+        <BoundingCenter X="-26.714773" Y="-1.152884" Z="-117.921204" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_3_b</Name>
+        <File>optre_frigate\frigate_part_3_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-291565535</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>33.396557</BBRadius>
+        <BBHScale>1.190855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.011688</XShift>
+        <YShift>0.011581</YShift>
+        <ZShift>0.002344</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-39.759766" Y="-48.197670" Z="-151.134232" />
+        <BoundingMax X="39.804504" Y="39.686550" Z="-84.317970" />
+        <BoundingCenter X="0.022369" Y="-4.255560" Z="-117.726105" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_3_c</Name>
+        <File>optre_frigate\frigate_part_3_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-291565534</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>33.187405</BBRadius>
+        <BBHScale>0.805897</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.043957</XShift>
+        <YShift>-0.002472</YShift>
+        <ZShift>-0.003988</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.035064" Y="-22.108768" Z="-151.111084" />
+        <BoundingMax X="53.614227" Y="19.803001" Z="-84.731316" />
+        <BoundingCenter X="26.824646" Y="-1.152884" Z="-117.921204" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Frigate_part_3_interior_a</Name>
+        <File>optre_frigate\frigate_part_3_interior_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>106764563</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="9999.000000" Y="9999.000000" Z="9999.000000" />
+        <BoundingMax X="-9999.000000" Y="-9999.000000" Z="-9999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_4_a</Name>
+        <File>optre_frigate\frigate_part_4_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-283304031</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.700436</BBRadius>
+        <BBHScale>0.817208</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.053993</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-53.409569" Y="-22.108759" Z="-84.736298" />
+        <BoundingMax X="0.036554" Y="21.793432" Z="-19.227442" />
+        <BoundingCenter X="-26.686508" Y="-0.157663" Z="-51.981869" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_4_b</Name>
+        <File>optre_frigate\frigate_part_4_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-283304030</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.734276</BBRadius>
+        <BBHScale>1.130231</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000130</YShift>
+        <ZShift>0.002678</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-36.963242" Y="-90.610718" Z="-84.751816" />
+        <BoundingMax X="37.031338" Y="55.448360" Z="-19.252502" />
+        <BoundingCenter X="0.034048" Y="-17.581179" Z="-52.002159" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_4_c</Name>
+        <File>optre_frigate\frigate_part_4_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-283304029</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.700436</BBRadius>
+        <BBHScale>0.817208</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.053993</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.048302" Y="-22.108759" Z="-84.736298" />
+        <BoundingMax X="53.494423" Y="21.793432" Z="-19.227442" />
+        <BoundingCenter X="26.771362" Y="-0.157663" Z="-51.981869" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_5_a</Name>
+        <File>optre_frigate\frigate_part_5_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-275042526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.357809</BBRadius>
+        <BBHScale>1.434975</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>1.253374</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-103.396675" Y="-60.728291" Z="-21.921593" />
+        <BoundingMax X="-19.141222" Y="16.060640" Z="39.334663" />
+        <BoundingCenter X="-61.268948" Y="-22.333824" Z="8.706535" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_5_b</Name>
+        <File>optre_frigate\frigate_part_5_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-275042525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.760624</BBRadius>
+        <BBHScale>1.167726</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002338</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-36.979980" Y="-95.497604" Z="-23.765942" />
+        <BoundingMax X="37.226643" Y="66.870804" Z="39.755306" />
+        <BoundingCenter X="0.123331" Y="-14.313400" Z="7.994682" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_5_c</Name>
+        <File>optre_frigate\frigate_part_5_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-275042524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.357809</BBRadius>
+        <BBHScale>1.434005</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.013718</XShift>
+        <YShift>1.253374</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="19.215574" Y="-60.728291" Z="-21.921593" />
+        <BoundingMax X="103.488098" Y="16.060640" Z="39.334663" />
+        <BoundingCenter X="61.351837" Y="-22.333824" Z="8.706535" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_6_A</Name>
+        <File>optre_frigate\frigate_part_6_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-266781053</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.819031</BBRadius>
+        <BBHScale>1.694051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.047195</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-107.769806" Y="-77.849396" Z="39.229355" />
+        <BoundingMax X="0.036289" Y="46.286304" Z="103.138519" />
+        <BoundingCenter X="-53.866756" Y="-15.781546" Z="71.183937" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_6_c</Name>
+        <File>optre_frigate\frigate_part_6_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-266781019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.819031</BBRadius>
+        <BBHScale>1.694051</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.017399</XShift>
+        <YShift>-0.047195</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.054146" Y="-77.849396" Z="39.229355" />
+        <BoundingMax X="107.895035" Y="46.286304" Z="103.138519" />
+        <BoundingCenter X="53.974590" Y="-15.781546" Z="71.183937" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7_a</Name>
+        <File>optre_frigate\frigate_part_7_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-258519516</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.769196</BBRadius>
+        <BBHScale>0.933504</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.008400</XShift>
+        <YShift>0.008102</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-105.732178" Y="-77.850021" Z="102.939537" />
+        <BoundingMax X="-44.524918" Y="46.286304" Z="168.494141" />
+        <BoundingCenter X="-75.128548" Y="-15.781858" Z="135.716843" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7_b</Name>
+        <File>optre_frigate\frigate_part_7_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-258519515</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.643982</BBRadius>
+        <BBHScale>1.814039</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.034544</XShift>
+        <YShift>0.023102</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-59.183502" Y="-32.085930" Z="102.909546" />
+        <BoundingMax X="59.320724" Y="10.460701" Z="168.243713" />
+        <BoundingCenter X="0.068611" Y="-10.812614" Z="135.576630" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7_b1</Name>
+        <File>optre_frigate\frigate_part_7_b1.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2090779828</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.778172</BBRadius>
+        <BBHScale>2.293934</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-113.818405" Y="-32.085930" Z="102.687370" />
+        <BoundingMax X="36.563492" Y="10.460701" Z="168.243713" />
+        <BoundingCenter X="-38.627457" Y="-10.812614" Z="135.465546" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7_b2</Name>
+        <File>optre_frigate\frigate_part_7_b2.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2090779827</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.751785</BBRadius>
+        <BBHScale>0.904170</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.032373</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.066010" Y="-32.085930" Z="102.740143" />
+        <BoundingMax X="59.320724" Y="10.460701" Z="168.243713" />
+        <BoundingCenter X="29.627357" Y="-10.812614" Z="135.491928" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_7_c</Name>
+        <File>optre_frigate\frigate_part_7_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-258519514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.769196</BBRadius>
+        <BBHScale>0.933504</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.008102</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="44.598633" Y="-77.850021" Z="102.939537" />
+        <BoundingMax X="105.778992" Y="46.286304" Z="168.494141" />
+        <BoundingCenter X="75.188812" Y="-15.781858" Z="135.716843" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_8_a</Name>
+        <File>optre_frigate\frigate_part_8_a.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-250258011</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.007278</BBRadius>
+        <BBHScale>0.841369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.021423</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-103.438545" Y="-54.736385" Z="168.243713" />
+        <BoundingMax X="-44.487652" Y="30.183088" Z="238.258270" />
+        <BoundingCenter X="-73.963097" Y="-12.276649" Z="203.250992" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_8_b</Name>
+        <File>optre_frigate\frigate_part_8_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-250258010</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.235031</BBRadius>
+        <BBHScale>1.492022</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.020107</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-19.712893" Y="-32.126133" Z="168.243713" />
+        <BoundingMax X="19.781017" Y="5.568460" Z="194.713776" />
+        <BoundingCenter X="0.034062" Y="-13.278836" Z="181.478745" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_8_c</Name>
+        <File>optre_frigate\frigate_part_8_c.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-250258009</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.007278</BBRadius>
+        <BBHScale>0.841368</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="44.598633" Y="-54.736385" Z="168.243713" />
+        <BoundingMax X="103.506668" Y="30.183088" Z="238.258270" />
+        <BoundingCenter X="74.052650" Y="-12.276649" Z="203.250992" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_b_strch</Name>
+        <File>optre_frigate\hallway_b_strch.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>974070128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.361222</BBRadius>
+        <BBHScale>1.428578</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.179226</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.056175</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.731385" Y="-0.004626" Z="-3.004085" />
+        <BoundingMax X="5.238103" Y="5.009717" Z="3.718360" />
+        <BoundingCenter X="0.253359" Y="2.502546" Z="0.357138" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_turn_45_b</Name>
+        <File>optre_frigate\hallway_turn_45_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1808496349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.941122</BBRadius>
+        <BBHScale>1.376594</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.037817</XShift>
+        <YShift>-0.137399</YShift>
+        <ZShift>-0.055569</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.826589" Y="-0.003928" Z="-3.712259" />
+        <BoundingMax X="4.776607" Y="5.009717" Z="2.444782" />
+        <BoundingCenter X="0.475009" Y="2.502895" Z="-0.633738" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hangar_door</Name>
+        <File>optre_frigate\hangar_door.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-811496406</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.604858</BBRadius>
+        <BBHScale>38.541149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.004196</YShift>
+        <ZShift>0.060471</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-22.812208" Y="-91.097862" Z="98.530121" />
+        <BoundingMax X="23.811666" Y="-70.872787" Z="99.748238" />
+        <BoundingCenter X="0.499729" Y="-80.985321" Z="99.139175" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hangar_ground_doors</Name>
+        <File>optre_frigate\hangar_ground_doors.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1192679319</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>38.189671</BBRadius>
+        <BBHScale>0.215915</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.017442</XShift>
+        <YShift>0.005215</YShift>
+        <ZShift>0.001244</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.392719" Y="-90.529678" Z="8.881997" />
+        <BoundingMax X="8.394458" Y="-89.203217" Z="85.728477" />
+        <BoundingCenter X="0.000869" Y="-89.866447" Z="47.305237" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>liftarm</Name>
+        <File>optre_frigate\liftarm.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-943001967</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.852361</BBRadius>
+        <BBHScale>0.381612</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000336</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.081009" Y="0.071449" Z="-1.544270" />
+        <BoundingMax X="1.095983" Y="39.644413" Z="4.160452" />
+        <BoundingCenter X="0.007487" Y="19.857931" Z="1.308091" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lift_gate</Name>
+        <File>optre_frigate\lift_gate.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1870815935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.372893</BBRadius>
+        <BBHScale>0.953321</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-2.560763</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.912123" Y="-0.174221" Z="-11.503193" />
+        <BoundingMax X="12.585189" Y="10.213777" Z="15.242594" />
+        <BoundingCenter X="-0.163467" Y="5.019778" Z="1.869700" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>room_a</Name>
+        <File>optre_frigate\room_a.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1245662211</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.473075</BBRadius>
+        <BBHScale>1.198889</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.214606</XShift>
+        <YShift>-0.005752</YShift>
+        <ZShift>-0.051331</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.560414" Y="-0.757436" Z="-7.702229" />
+        <BoundingMax X="8.577185" Y="6.575779" Z="5.511657" />
+        <BoundingCenter X="0.508385" Y="2.909172" Z="-1.095286" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>room_b</Name>
+        <File>optre_frigate\room_b.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1245662210</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.503410</BBRadius>
+        <BBHScale>0.792085</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.249020</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.496432" Y="-0.513175" Z="-6.485445" />
+        <BoundingMax X="4.304115" Y="5.430452" Z="6.521375" />
+        <BoundingCenter X="-1.096158" Y="2.458638" Z="0.017965" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>room_c</Name>
+        <File>optre_frigate\room_c.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1245662209</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.748747</BBRadius>
+        <BBHScale>0.479242</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.249020</XShift>
+        <YShift>-0.328063</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.496432" Y="-3.031746" Z="-6.485445" />
+        <BoundingMax X="4.304115" Y="5.430452" Z="15.668175" />
+        <BoundingCenter X="-1.096158" Y="1.199353" Z="4.591365" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidedoors1</Name>
+        <File>optre_frigate\sidedoors1.p3d</File>
+        <Date>07/03/16 21:59:36</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-213947133</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.005119</BBRadius>
+        <BBHScale>0.034031</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.006283</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.088087</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="52.629932" Y="-13.498823" Z="-122.818520" />
+        <BoundingMax X="54.480499" Y="-0.450562" Z="-68.808281" />
+        <BoundingCenter X="53.555214" Y="-6.974692" Z="-95.813400" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidedoors2</Name>
+        <File>optre_frigate\sidedoors2.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-213947132</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.006536</BBRadius>
+        <BBHScale>0.034029</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.006283</XShift>
+        <YShift>0.044754</YShift>
+        <ZShift>0.084439</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="52.629936" Y="-13.487977" Z="-68.000481" />
+        <BoundingMax X="54.480499" Y="-0.450556" Z="-13.897907" />
+        <BoundingCenter X="53.555218" Y="-6.969266" Z="-40.949196" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidedoors3</Name>
+        <File>optre_frigate\sidedoors3.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-213947131</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.005119</BBRadius>
+        <BBHScale>0.031907</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.075562</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-54.420715" Y="-13.482171" Z="-122.818520" />
+        <BoundingMax X="-52.697433" Y="-0.446522" Z="-68.808281" />
+        <BoundingCenter X="-53.559074" Y="-6.964346" Z="-95.813400" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sidedoors4</Name>
+        <File>optre_frigate\sidedoors4.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-213947130</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.006533</BBRadius>
+        <BBHScale>0.031905</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.044754</YShift>
+        <ZShift>0.066494</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-54.420715" Y="-13.471325" Z="-68.000481" />
+        <BoundingMax X="-52.697430" Y="-0.435676" Z="-13.897907" />
+        <BoundingCenter X="-53.559074" Y="-6.953500" Z="-40.949196" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>spawn_door</Name>
+        <File>optre_frigate\spawn_door.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2087715794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.720167</BBRadius>
+        <BBHScale>1.437429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.054148" Y="0.307879" Z="-8.024069" />
+        <BoundingMax X="12.015087" Y="1.509879" Z="9.416265" />
+        <BoundingCenter X="-0.519530" Y="0.908879" Z="0.696098" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>turret</Name>
+        <File>optre_frigate\turret.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>129266128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.186275</BBRadius>
+        <BBHScale>0.647061</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.156302</XShift>
+        <YShift>-0.689757</YShift>
+        <ZShift>-0.684585</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.936296" Y="-0.015000" Z="-5.916415" />
+        <BoundingMax X="5.191352" Y="5.625436" Z="5.927137" />
+        <BoundingCenter X="0.127528" Y="2.805218" Z="0.005361" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vehicle_lift_PH</Name>
+        <File>optre_frigate\vehicle_lift_ph.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-246840615</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.707019</BBRadius>
+        <BBHScale>0.851211</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000546</XShift>
+        <YShift>-0.006614</YShift>
+        <ZShift>-17.570610</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.690123" Y="-90.441528" Z="-19.380682" />
+        <BoundingMax X="12.348508" Y="-50.972080" Z="10.046583" />
+        <BoundingCenter X="-0.170807" Y="-70.706802" Z="-4.667049" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>vehicle_lift_PH2</Name>
+        <File>optre_frigate\vehicle_lift_ph2.p3d</File>
+        <Date>07/03/16 21:59:37</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-470797415</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.711746</BBRadius>
+        <BBHScale>0.850937</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>2.883383</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.690123" Y="4.964366" Z="-14.380682" />
+        <BoundingMax X="12.347417" Y="11.736908" Z="15.042809" />
+        <BoundingCenter X="-0.171353" Y="8.350637" Z="0.331064" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>frigate_part_6_b_1</Name>
+        <File>optre_frigate\frigate_part_6_b.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-266781020</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.367228</BBRadius>
+        <BBHScale>1.218444</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.012917</YShift>
+        <ZShift>-0.021034</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-36.966698" Y="-95.497604" Z="39.291859" />
+        <BoundingMax X="37.034817" Y="16.607933" Z="100.052147" />
+        <BoundingCenter X="0.034060" Y="-39.444836" Z="69.672005" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_short_1</Name>
+        <File>optre_frigate\hallway_a_short.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>874987317</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681284</BBRadius>
+        <BBHScale>0.478269</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000106</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.395793" Y="-0.002589" Z="-3.651958" />
+        <BoundingMax X="0.125703" Y="5.000782" Z="3.710610" />
+        <BoundingCenter X="-1.635045" Y="2.499096" Z="0.029326" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_a_strch_1</Name>
+        <File>optre_frigate\hallway_a_strch.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1675899631</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.681284</BBRadius>
+        <BBHScale>1.084143</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.052758</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.990506" Y="-0.002589" Z="-3.651958" />
+        <BoundingMax X="3.991569" Y="5.000782" Z="3.710610" />
+        <BoundingCenter X="0.000532" Y="2.499096" Z="0.029326" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_b_short_1</Name>
+        <File>optre_frigate\hallway_b_short.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>173157814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.762707</BBRadius>
+        <BBHScale>2.724087</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.177732</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.054365</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.731385" Y="-0.004626" Z="-3.006749" />
+        <BoundingMax X="5.238103" Y="5.009717" Z="0.518666" />
+        <BoundingCenter X="0.253359" Y="2.502546" Z="-1.244042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hallway_door_b_2_1</Name>
+        <File>optre_frigate\hallway_door_b_2.p3d</File>
+        <Date>07/03/16 21:59:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1092045971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.503410</BBRadius>
+        <BBHScale>0.019689</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.186273" Y="-0.513175" Z="-6.485445" />
+        <BoundingMax X="0.069823" Y="5.430452" Z="6.521375" />
+        <BoundingCenter X="-0.058225" Y="2.458638" Z="0.017965" />
+        <Placement></Placement>
+    </Template>
+</Library>

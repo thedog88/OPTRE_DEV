@@ -3,14 +3,14 @@
 //Class config.bin{
 class CfgPatches
 {
- class Sandstorm_OPTRE
+ class OPTRE_Sandstorm
  {
-  units[] = {"Sandstorm_OPTRE"};
+  units[] = {"OPTRE_Sandstorm"};
   weapons[] = {};
   requiredVersion = 1.0;
   requiredaddons[]={"A3_Map_Stratis"};
   version = "02/02/2015";
-  fileName = "Sandstorm_OPTRE.pbo"; 
+  fileName = "OPTRE_Sandstorm.pbo"; 
   author = "Lumnuon"; 
  };
 };
@@ -22,7 +22,7 @@ class CfgWorlds
   class Grid;
   class DefaultClutter;
  };
- class sandstorm_OPTRE: Stratis
+ class OPTRE_Sandstorm: Stratis
  {
   cutscenes[] = {};
   author = "Article 2 Studios"; 
@@ -110,7 +110,7 @@ class Sea
 };
 class CfgWorldList
 {
- class Sandstorm_OPTRE{};
+ class OPTRE_Sandstorm{};
 };
 class CfgMissions
 {

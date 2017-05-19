@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<Library name="supplies_f_heli" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>ContainmentArea_01_F</Name>
+        <File>a3\supplies_f_heli\bladders\containmentarea_01_f.p3d</File>
+        <Date>01/20/16 23:18:23</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>418958376</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.340592</BBRadius>
+        <BBHScale>1.276928</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.820551" Y="-0.000006" Z="-5.350669" />
+        <BoundingMax X="6.818551" Y="0.500528" Z="5.330516" />
+        <BoundingCenter X="-0.001000" Y="0.250261" Z="-0.010077" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ContainmentArea_02_F</Name>
+        <File>a3\supplies_f_heli\bladders\containmentarea_02_f.p3d</File>
+        <Date>01/20/16 23:18:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>427219881</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.039215</BBRadius>
+        <BBHScale>1.174792</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.570446" Y="-0.003000" Z="-3.040151" />
+        <BoundingMax X="3.570446" Y="0.472699" Z="3.038278" />
+        <BoundingCenter X="0.000000" Y="0.234850" Z="-0.000937" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>StorageBladder_01_F</Name>
+        <File>a3\supplies_f_heli\bladders\storagebladder_01_f.p3d</File>
+        <Date>01/20/16 23:18:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1917970562</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.571333</BBRadius>
+        <BBHScale>1.423300</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.053149" Y="-0.002172" Z="-3.574847" />
+        <BoundingMax X="5.113008" Y="1.631736" Z="3.567820" />
+        <BoundingCenter X="0.029930" Y="0.814782" Z="-0.003513" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>StorageBladder_02_F</Name>
+        <File>a3\supplies_f_heli\bladders\storagebladder_02_f.p3d</File>
+        <Date>01/20/16 23:18:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1909709057</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.871808</BBRadius>
+        <BBHScale>1.489878</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.789189" Y="0.000343" Z="-1.868606" />
+        <BoundingMax X="2.788341" Y="1.086290" Z="1.875010" />
+        <BoundingCenter X="-0.000424" Y="0.543316" Z="0.003202" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CargoNet_01_ammo_F</Name>
+        <File>a3\supplies_f_heli\cargonets\cargonet_01_ammo_f.p3d</File>
+        <Date>01/20/16 23:18:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1058269557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.825279</BBRadius>
+        <BBHScale>0.973537</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.796107" Y="-0.012799" Z="-0.824724" />
+        <BoundingMax X="0.810772" Y="1.661790" Z="0.825834" />
+        <BoundingCenter X="0.007332" Y="0.824496" Z="0.000555" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CargoNet_01_barrels_F</Name>
+        <File>a3\supplies_f_heli\cargonets\cargonet_01_barrels_f.p3d</File>
+        <Date>01/20/16 23:18:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-822691692</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.711160</BBRadius>
+        <BBHScale>1.042794</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.741571" Y="-0.003753" Z="-0.714928" />
+        <BoundingMax X="0.741615" Y="1.055724" Z="0.707391" />
+        <BoundingCenter X="0.000022" Y="0.525986" Z="-0.003769" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CargoNet_01_box_F</Name>
+        <File>a3\supplies_f_heli\cargonets\cargonet_01_box_f.p3d</File>
+        <Date>01/20/16 23:18:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2135458322</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.756001</BBRadius>
+        <BBHScale>0.993891</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.758240" Y="-0.002865" Z="-0.747932" />
+        <BoundingMax X="0.744524" Y="1.272902" Z="0.764069" />
+        <BoundingCenter X="-0.006858" Y="0.635018" Z="0.008069" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FlexibleTank_01_F</Name>
+        <File>a3\supplies_f_heli\fuel\flexibletank_01_f.p3d</File>
+        <Date>01/20/16 23:18:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2098987026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.294450</BBRadius>
+        <BBHScale>1.000002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.294450" Y="-0.020520" Z="-0.291245" />
+        <BoundingMax X="0.294450" Y="1.049610" Z="0.297654" />
+        <BoundingCenter X="0.000000" Y="0.514545" Z="0.003204" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Slingload_01_Ammo_F</Name>
+        <File>a3\supplies_f_heli\slingload\slingload_01_ammo_f.p3d</File>
+        <Date>01/20/16 23:18:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>239168483</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.080235</BBRadius>
+        <BBHScale>0.396705</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.222240" Y="-0.000826" Z="-3.128510" />
+        <BoundingMax X="1.221650" Y="2.724901" Z="3.031960" />
+        <BoundingCenter X="-0.000295" Y="1.362037" Z="-0.048275" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Slingload_01_Cargo_F</Name>
+        <File>a3\supplies_f_heli\slingload\slingload_01_cargo_f.p3d</File>
+        <Date>01/19/16 19:56:39</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2006920821</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.089125</BBRadius>
+        <BBHScale>0.395840</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.223950" Y="-0.000826" Z="-3.129850" />
+        <BoundingMax X="1.221650" Y="2.724901" Z="3.048400" />
+        <BoundingCenter X="-0.001150" Y="1.362037" Z="-0.040725" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Slingload_01_Fuel_F</Name>
+        <File>a3\supplies_f_heli\slingload\slingload_01_fuel_f.p3d</File>
+        <Date>01/19/16 19:56:39</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>651269547</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.094850</BBRadius>
+        <BBHScale>0.399453</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.234056" Y="-0.000000" Z="-3.134480" />
+        <BoundingMax X="1.238440" Y="2.724901" Z="3.055220" />
+        <BoundingCenter X="0.002192" Y="1.362450" Z="-0.039630" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Slingload_01_Medevac_F</Name>
+        <File>a3\supplies_f_heli\slingload\slingload_01_medevac_f.p3d</File>
+        <Date>01/20/16 23:18:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1471759048</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.089224</BBRadius>
+        <BBHScale>0.451463</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.363490" Y="-0.006615" Z="-3.138140" />
+        <BoundingMax X="1.425850" Y="2.724901" Z="3.040308" />
+        <BoundingCenter X="0.031180" Y="1.359143" Z="-0.048916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Slingload_01_Repair_F</Name>
+        <File>a3\supplies_f_heli\slingload\slingload_01_repair_f.p3d</File>
+        <Date>01/19/16 19:56:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1279336702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.154027</BBRadius>
+        <BBHScale>0.390193</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.229460" Y="-0.003868" Z="-3.122833" />
+        <BoundingMax X="1.231900" Y="2.724901" Z="3.185220" />
+        <BoundingCenter X="0.001220" Y="1.360516" Z="0.031193" />
+        <Placement></Placement>
+    </Template>
+</Library>
