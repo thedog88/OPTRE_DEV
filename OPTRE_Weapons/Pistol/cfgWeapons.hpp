@@ -16,7 +16,7 @@ class CfgWeapons
 	{
 		dlc = "OPTRE";
  		scope 										= 2;
- 		displayName 								= "[UNSC] M6G Flashlight";
+ 		displayName 								= "M6G Flashlight";
  		picture = "\OPTRE_weapons\pistol\icons\flashlight.paa";
 		descriptionShort 							= "Flashlight for the M6G Handgun";
  		model 										= "\OPTRE_Weapons\Pistol\flashlight.p3d";
@@ -56,7 +56,7 @@ class CfgWeapons
 	{
 		dlc = "OPTRE";
 		scope 										= 2;
-		displayName 								= "[UNSC] M6G KFA-2 SmartLink Scope";
+		displayName 								= "M6G KFA-2 SmartLink Scope";
 		picture = "\OPTRE_weapons\pistol\icons\scope.paa";
 		model 										= "\OPTRE_Weapons\Pistol\scope.p3d";
 		descriptionShort 							= "KFA-2 2x SmartLink Scope for M6G Magnum";
@@ -113,7 +113,7 @@ class CfgWeapons
        {
 			dlc = "OPTRE";
            scope                                                                   = 2;
-           displayName                                                             = "[UNSC] M6 Series Suppressor";
+           displayName                                                             = "M6 Series Suppressor";
            model                                                                   = "\OPTRE_Weapons\Pistol\m6c_silencer.p3d";
            descriptionShort                                                        = "M6 Series Suppressor";
            inertia                                                                 = 0.1;
@@ -161,7 +161,7 @@ class CfgWeapons
        {
 			dlc = "OPTRE";
            scope                                                                   = 2;
-           displayName                                                             = "[UNSC] M6C Compensator";
+           displayName                                                             = "M6C Compensator";
            model                                                                   = "\OPTRE_Weapons\Pistol\m6c_comp.p3d";
            descriptionShort                                                        = "M6C Compensator";
            inertia                                                                 = 0.1;
@@ -210,7 +210,7 @@ class CfgWeapons
 		{
 			dlc = "OPTRE";
 			scope 										= 2;
-			displayName 								= "[UNSC] M6C RDS";
+			displayName 								= "M6C RDS";
 			descriptionShort 							= "Red Dot Sight for the M6C Handgun";
 			model 										= "\OPTRE_Weapons\pistol\m6c_rds.p3d";
 			inertia 									= 0.1;
@@ -245,7 +245,7 @@ class CfgWeapons
 		{
 			dlc = "OPTRE";
 			scope 										= 2;
-			displayName 								= "[UNSC] M6C Laser Aiming Module";
+			displayName 								= "M6C Laser Aiming Module";
 			descriptionShort 							= "IR Laser for the M6C Handgun";
 			model 										= "\OPTRE_Weapons\pistol\m6c_lam.p3d";
 			inertia 									= 0.1;
@@ -268,7 +268,7 @@ class CfgWeapons
 		dlc = "OPTRE";
 		scope 										= 2;
 		model										= "\OPTRE_Weapons\Pistol\pistol.p3d";
-		displayName 								= "[UNSC] M6G Magnum";
+		displayName 								= "M6G Magnum";
 		descriptionShort 							= "12.7x40mm Magnum Pistol";
 		picture = "\OPTRE_weapons\pistol\icons\pistol_a.paa";
 		pictureWire = "\OPTRE_Weapons\data\Pictures\WireWeaponIcons\Pistols\M6F_IRON.paa";
@@ -452,7 +452,7 @@ class CfgWeapons
 	{
 		dlc = "OPTRE";
 		model										= "\OPTRE_Weapons\Pistol\m6c.p3d";
-		displayName 								= "[UNSC] M6C Handgun";
+		displayName 								= "M6C Handgun";
 		descriptionShort 							= "12.7x40mm Handgun";
 		picture 									= "\OPTRE_weapons\pistol\icons\pistol_a.paa";
 		pictureWire 								= "\OPTRE_Weapons\data\Pictures\WireWeaponIcons\Pistols\M6F_IRON.paa";

@@ -15,7 +15,7 @@ class CfgWeapons
        {
 		dlc = "OPTRE";
            scope                                                                   = 2;
-           displayName                                                             = "[UNSC] M7 SS-M 49 Suppressor";
+           displayName                                                             = "M7 SS-M 49 Suppressor";
            picture = "\OPTRE_weapons\smg\icons\silencer.paa";
            model                                                                   = "\OPTRE_Weapons\SMG\m7_silencer.p3d";
            descriptionShort                                                        = "M7 Silencer";
@@ -65,7 +65,7 @@ class CfgWeapons
 		{
 		dlc = "OPTRE";
 			scope 										= 2;
-			displayName 								= "[UNSC] M7 Flashlight";
+			displayName 								= "M7 Flashlight";
 			picture										="\a3\weapons_f\data\ui\gear_accv_flashlight_ca.paa";
 			descriptionShort 								= "Flashlight for the M7 SMG";
 			model 										= "\OPTRE_Weapons\SMG\m7_flashlight.p3d";
@@ -106,7 +106,7 @@ class CfgWeapons
 		{
 		dlc = "OPTRE";
 			scope 										= 2;
-			displayName 								= "[UNSC] M7 SLS/V 5B Reflex";
+			displayName 								= "M7 SLS/V 5B Reflex";
 			picture = "\OPTRE_weapons\smg\icons\scope.paa";
 			descriptionShort 							= "Smart Link Scope Reflex Sight for the M7 SMG";
 			model 										= "\OPTRE_Weapons\SMG\m7_sights.p3d";
@@ -142,7 +142,7 @@ class CfgWeapons
 		{
 		dlc = "OPTRE";
 			scope 										= 2;
-			displayName 								= "[UNSC] M7 Laser Aiming Module";
+			displayName 								= "M7 Laser Aiming Module";
 			picture = "\OPTRE_weapons\smg\icons\laser.paa";
 			descriptionShort 							= "IR Laser for the M7 SMG";
 			model 										= "\OPTRE_Weapons\SMG\m7_laser.p3d";
@@ -166,9 +166,10 @@ class CfgWeapons
             {
 					dlc = "OPTRE";
                     scope                                                                   = 2;
+                    scopeArsenal                                                            = 2;
                     handAnim[]                                                              = {"OFP2_ManSkeleton", "\OPTRE_Weapons\smg\data\anim\smg_handanim2.rtm"};
 					model                                                                   = "\OPTRE_Weapons\SMG\SMG.p3d";
-                    displayName                                                             = "[UNSC] M7/Caseless SMG";
+                    displayName                                                             = "M7/Caseless SMG";
                     descriptionShort                                                        = "UNSC M7 SMG";
                     picture = "\OPTRE_weapons\smg\icons\smg.paa";
                    	pictureWire 															= "\OPTRE_Weapons\data\Pictures\WireWeaponIcons\Prime\SMG\SMG_IRON.paa";
@@ -438,7 +439,7 @@ class CfgWeapons
                     handAnim[]                                                            	= {"OFP2_ManSkeleton"};
 					reloadAction 															= "GestureReloadPistol";
 					model                                                                   = "\OPTRE_Weapons\SMG\SMG_folded.p3d";
-                    displayName                                                             = "[UNSC] M7/Caseless SMG (Folded)";
+                    displayName                                                             = "M7/Caseless SMG (Folded)";
                     descriptionShort                                                        = "UNSC M7 SMG (Folded)";
 					type 																	= 2;
 					recoil = "recoil_mx";

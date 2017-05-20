@@ -405,7 +405,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		scope 								= 2;
-		displayName 						= "[INS] Combat Fatigues (OD)";
+		displayName 						= "Combat Fatigues (OD)";
 		author								= "Article 2 Studios";
 		picture = "\A3\characters_f_beta\data\ui\icon_U_IR_CrewUniform_rucamo_ca.paa";
 		model								= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
@@ -424,7 +424,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		scope 								= 2;
-		displayName 						= "[INS] Officer Fatigues [Ins]";
+		displayName 						= "Officer Fatigues";
 		author								= "Article 2 Studios";
 		picture = "\A3\characters_f_beta\data\ui\icon_U_IR_CombatUniform_rucamo_ca.paa";
 		model								= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
@@ -445,7 +445,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 								= 2;
 		weaponPoolAvailable 				= 1;
-        displayName 						= "[INS] Beret (OD)"; //In-Game name
+        displayName 						= "Beret (OD)"; //In-Game name
         model 								= "\A3\Characters_F\Common\headgear_beret01";
 		picture = "\A3\characters_f\Data\UI\icon_H_Beret_blk_CA.paa";
         hiddenSelections[] 					= {"camo"};
@@ -464,7 +464,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope = 2;
 		weaponPoolAvailable = 1;
-        displayName = "[INS] Helmet (OD)"; //In-Game name
+        displayName = "Helmet (OD)"; //In-Game name
         model = "\A3\Characters_F_Beta\INDEP\headgear_helmet_canvas";
 		picture = "\A3\characters_F_Beta\Data\UI\icon_H_I_Helmet_canvas_ca.paa";
         hiddenSelections[] = {"camo"};
@@ -495,7 +495,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		scope = 2;
-		displayName = "[INS] Bulletproof Vest"; //In-Game name
+		displayName = "Bulletproof Vest (OD)"; //In-Game name
 		model = "\A3\Characters_F_EPC\Civil\equip_press_vest_01";
 		picture = "\OPTRE_Ins_Units\data\icon_innie_vest_press_od_ca.paa";
 		hiddenSelections[] = {"camo"};
@@ -547,7 +547,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		scope = 2;
-		displayName = "[INS] Plate Carrier"; //In-Game name
+		displayName = "Plate Carrier (OD)"; //In-Game name
 		model = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 		picture = "\A3\characters_f_Beta\Data\UI\icon_V_I_Vest_02_ca.paa";
 		hiddenSelections[] = {"camo"};

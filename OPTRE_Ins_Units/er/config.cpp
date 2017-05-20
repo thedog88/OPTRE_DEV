@@ -644,7 +644,7 @@ class CfgVehicles
 	class OPTRE_ins_backpack_AT : B_fieldpack_blk 
 	{
 		dlc = "OPTRE";
-		displayname = "[INS] AT Rocket Pack";
+		displayname = "AT Rocket Pack";
 		scopeArsenal = 1;
 		class TransportMagazines
 		{
@@ -658,7 +658,7 @@ class CfgVehicles
 	class OPTRE_ins_backpack_exp : B_fieldpack_blk 
 	{
 		dlc = "OPTRE";
-		displayname = "[INS] Explosives Pack";
+		displayname = "Explosives Pack";
 		scopeArsenal = 1;
 		class TransportMagazines
 		{
@@ -719,7 +719,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Insurrectionist Apparel (Tan)"; //In-Game name
+        displayName 									= "Insurrectionist Apparel (Tan)"; //In-Game name
 		picture 										= "\A3\characters_f_bootcamp\data\ui\icon_U_G_guerrilla_6_1_ca.paa";									
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
         class ItemInfo: UniformItem
@@ -736,7 +736,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Insurrectionist Apparel (Green)"; //In-Game name
+        displayName 									= "Insurrectionist Apparel (Green)"; //In-Game name
 		picture = "\A3\characters_f_bootcamp\data\ui\icon_U_G_guerrilla_6_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
         class ItemInfo: UniformItem
@@ -753,7 +753,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Insurrectionist Garments (OD)"; //In-Game name
+        displayName 									= "Insurrectionist Garments (OD)"; //In-Game name
 		picture = "\A3\characters_f_bootcamp\data\ui\icon_U_G_guerrilla1_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
         class ItemInfo: UniformItem
@@ -770,7 +770,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Insurrectionist Garments (Grey)"; //In-Game name
+        displayName 									= "Insurrectionist Garments (Grey)"; //In-Game name
 		picture = "\A3\characters_f_bootcamp\data\ui\icon_U_G_guerrilla1_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
         class ItemInfo: UniformItem
@@ -787,7 +787,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Surplus Jacket (OD)"; //In-Game name
+        displayName 									= "Surplus Jacket (OD)"; //In-Game name
 		picture	 = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -803,7 +803,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Surplus Jacket (Redshirt)"; //In-Game name
+        displayName 									= "Surplus Jacket (Redshirt)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -819,7 +819,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Surplus Jacket (Brown)"; //In-Game name
+        displayName 									= "Surplus Jacket (Brown)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -835,7 +835,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Brown Jacket (Surplus)"; //In-Game name
+        displayName 									= "Brown Jacket (Surplus)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -852,7 +852,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] OD Jacket (Surplus)"; //In-Game name
+        displayName 									= "OD Jacket (Surplus)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -868,7 +868,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Surgeon's Jacket (1)"; //In-Game name
+        displayName 									= "Surgeon's Jacket (1)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -884,7 +884,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Surgeon's Jacket (2)"; //In-Game name
+        displayName 									= "Surgeon's Jacket (2)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -900,7 +900,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (Surplus/Black)"; //In-Game name
+        displayName 									= "Rolled Sleeves (Surplus/Black)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -916,7 +916,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (Surplus/Crimson)"; //In-Game name
+        displayName 									= "Rolled Sleeves (Surplus/Crimson)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -932,7 +932,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (Jeans/'Orca')"; //In-Game name
+        displayName 									= "Rolled Sleeves (Jeans/'Orca')"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -948,7 +948,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (OD/Crimson)"; //In-Game name
+        displayName 									= "Rolled Sleeves (OD/Crimson)"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -964,7 +964,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (OD/'Black & Blue')"; //In-Game name
+        displayName 									= "Rolled Sleeves (OD/'Black & Blue')"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -980,7 +980,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope 											= 2;
 		author											= "Article 2 Studios";
-        displayName 									= "[INS] Rolled Sleeves (OD/'Smoke & Fire')"; //In-Game name
+        displayName 									= "Rolled Sleeves (OD/'Smoke & Fire')"; //In-Game name
 		picture = "\A3\characters_f_gamma\Guerrilla\data\ui\icon_U_G_guerrilla3_1_ca.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -999,7 +999,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope 											= 2; 
 		author											= "Article 2 Studios";
-		displayName  									= "[INS] M52 Body Armor (v1)"; 
+		displayName  									= "M52 Body Armor (v1)"; 
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_vest.paa"; //Needs new inventory icon.  
 		hiddenSelections[]   							= {"camo1","camo2","camo3","attach_knife","attach_neck","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\vest_innie_1-1_co.paa"}; 
@@ -1053,7 +1053,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope 											= 2; 
 		author											= "Article 2 Studios";
-		displayName  									= "[INS] M52 Body Armor (v2)"; 
+		displayName  									= "M52 Body Armor (v2)"; 
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_vest.paa"; //Needs new inventory icon.  
 		hiddenSelections[]   							= {"camo1","camo2","camo3","attach_knife","attach_neck","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\vest_innie_1-2_co.paa"}; 
@@ -1074,7 +1074,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope 											= 2; 
 		author											= "Article 2 Studios";
-		displayName  									= "[INS] M52 Body Armor (v3)"; 
+		displayName  									= "M52 Body Armor (v3)"; 
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_vest.paa"; //Needs new inventory icon.  
 		hiddenSelections[]   							= {"camo1","camo2","camo3","attach_knife","attach_neck","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\vest_innie_1-1_co.paa"}; 
@@ -1099,7 +1099,7 @@ class cfgWeapons
 		scope   										= 2; 
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_helmet.paa"; //needs new Icon.  
-		displayName    									= "[INS] CH252 Helmet (Repainted)"; 
+		displayName    									= "CH252 Helmet (Repainted)"; 
 		model     										= "\OPTRE_UNSC_Units\Army\helmet.p3d"; 
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\helmet_innie_1_co.paa"}; 
@@ -1128,7 +1128,7 @@ class cfgWeapons
 		scope   										= 2; 
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_helmet.paa"; //needs new Icon.  
-		displayName    									= "[INS] CH252 Helmet (Joker)"; 
+		displayName    									= "CH252 Helmet (Joker)"; 
 		model     										= "\OPTRE_UNSC_Units\Army\helmet.p3d"; 
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\helmet_innie_killunsc_co.paa"}; 
@@ -1149,7 +1149,7 @@ class cfgWeapons
 		scope   										= 2; 
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_helmet.paa"; //needs new Icon.  
-		displayName    									= "[INS] CH252 Helmet (Paine)"; 
+		displayName    									= "CH252 Helmet (Paine)"; 
 		model     										= "\OPTRE_UNSC_Units\Army\helmet.p3d"; 
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\helmet_innie_liberty_co.paa"}; 
@@ -1169,7 +1169,7 @@ class cfgWeapons
 		scope   										= 2; 
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_helmet.paa"; //needs new Icon.  
-		displayName    									= "[INS] CH252 Helmet (Veteran)"; 
+		displayName    									= "CH252 Helmet (Veteran)"; 
 		model     										= "\OPTRE_UNSC_Units\Army\helmet.p3d"; 
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_Ins_Units\er\data\helmet_innie_veteran_co.paa"}; 
@@ -1188,7 +1188,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope = 2;
         weaponPoolAvailable = 1;
-        displayName = "[INS] Booniehat (Grey)"; //In-Game name
+        displayName = "Booniehat (Grey)"; //In-Game name
 		picture = "\A3\characters_f\Data\UI\icon_H_booniehat_desert_ca.paa";
         model = "\a3\characters_f\Common\booniehat"; // Model
         hiddenSelections[] = {"camo"};
@@ -1205,7 +1205,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		scope = 1;
-		displayName = "[INS] Booniehat (Green)";
+		displayName = "Booniehat (Green)";
 		picture = "\A3\Characters_F_Bootcamp\Data\UI\icon_H_Booniehat_oli_ca.paa";
 		hiddenSelectionsTextures[] = {"OPTRE_Ins_Units\data\innie_boonie_green_co.paa"};
 	};
@@ -1214,7 +1214,7 @@ class cfgWeapons
 		dlc = "OPTRE";
         scope = 2;
 		weaponPoolAvailable = 1;
-        displayName = "[INS] Military Cap (Green)"; //In-Game name
+        displayName = "Military Cap (Green)"; //In-Game name
         model = "\a3\characters_f\Common\cappatrol"; // Model
 		picture = "\A3\Characters_F_Bootcamp\Data\UI\icon_H_MilCap_gry_ca.paa";
         hiddenSelections[] = {"camo"};
@@ -1231,7 +1231,7 @@ class cfgWeapons
 	class OPTRE_h_PatrolCap_Brown: OPTRE_h_PatrolCap_Green
 	{
 		dlc = "OPTRE";
-        displayName = "[INS] Military Cap (Brown)"; //In-Game name
+        displayName = "Military Cap (Brown)"; //In-Game name
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"OPTRE_Ins_Units\data\innie_patrolcap_Brown_co.paa"};
 		picture = "\A3\Characters_F_Bootcamp\Data\UI\icon_H_MilCap_gry_ca.paa";

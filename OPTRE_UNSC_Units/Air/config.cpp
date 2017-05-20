@@ -147,7 +147,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope															= 2;
 		author															= "Article 2 Studios";
-		displayName														= "[UNSC] Air Force BDU";
+		displayName														= "Air Force BDU";
 		picture   														= "\OPTRE_UNSC_Units\marines\icons\marine_uniform.paa";
 		model															= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -226,7 +226,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope 															= 2;
 		author															= "Article 2 Studios";
-		displayName  													= "[UNSC] M52[V] Body Armor [Air Force]";
+		displayName  													= "M52[V] Body Armor [Air Force]";
 		picture   														= "\OPTRE_UNSC_Units\marines\icons\marine_vest_vac.paa";
 		hiddenSelections[]   											= {"camo1","camo2","camo3","attach_knife","attach_pouches","attach_ghillie"};
 		hiddenSelectionsTextures[]   									= {"OPTRE_UNSC_Units\Air\data\vest_airforce_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa","OPTRE_UNSC_Units\Army\data\pouches_black_co.paa"};
@@ -246,13 +246,13 @@ class cfgWeapons
 	class OPTRE_PatrolCap_Airforce: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Air Force]";
+		displayname 									= "Patrol Cap [Air Force]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Air\data\cappatrol_airforce_co.paa"};
 	};
 	class OPTRE_BoonieHat_Airforce: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Air Force]";
+		displayname 									= "Boonie Hat [Air Force]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Air\data\booniehat_airforce_co.paa"};
 	};
 	// HELMETS END

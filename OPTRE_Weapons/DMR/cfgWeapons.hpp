@@ -19,7 +19,7 @@ class CfgWeapons
 		dlc = "OPTRE";
 		scope 										= 2;
 		scopeArsenal 								= 2;
-		displayName 								= "[UNSC] M392 Scope";
+		displayName 								= "M392 Scope";
 		picture 									= "\OPTRE_weapons\br\icons\scope.paa";
 		model 										= "\OPTRE_Weapons\DMR\scope.p3d";
 		descriptionShort 							= "4x Scope for M392 Marksman Rifle";
@@ -80,7 +80,7 @@ class CfgWeapons
 		scopeArsenal 								= 2;
 		handAnim[] 									= {"OFP2_ManSkeleton", "\OPTRE_Weapons\BR\data\anim\BR.rtm"};
 		model										= "\OPTRE_Weapons\DMR\DMR.p3d";
-		displayName 								= "[UNSC] M392 DMR";
+		displayName 								= "M392 DMR";
 		descriptionShort 							= "UNSC Marksman Rifle";
 		picture 									= "\OPTRE_weapons\br\icons\br.paa";
 		pictureWire 								= "\OPTRE_Weapons\data\Pictures\WireWeaponIcons\Prime\BattleRifle\BR_SCOPE.paa";

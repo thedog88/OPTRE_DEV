@@ -1,10 +1,10 @@
 #define private         0
 #define protected               1
 #define public          2
- 
+
 #define true    1
 #define false   0
- 
+
 class CfgPatches {
         class OPTRE_Weapons_Backpacks {
                 units[] = {};
@@ -14,8 +14,8 @@ class CfgPatches {
 				author = "Article 2 Studios";
         };
 };
- 
-class cfgVehicles 
+
+class cfgVehicles
 	{
 		class ContainerSupply;
 		class Bag_Base;
@@ -24,7 +24,7 @@ class cfgVehicles
 		class B_Kitbag_cbr;
 		class B_Kitbag_rgr;
 
-        class OPTRE_ILCS_Rucksack_Black : B_Bergen_Base 
+        class OPTRE_ILCS_Rucksack_Black : B_Bergen_Base
 		{
 					dlc = "OPTRE";
 				scope 												= 2;
@@ -35,7 +35,7 @@ class cfgVehicles
 				transportMaxWeapons 								= 10;
 				transportMaxMagazines 								= 100;
 				class DestructionEffects{};
-                displayName 										= "[UNSC] ILCS Rucksack [Black]";
+                displayName 										= "ILCS Rucksack [Black]";
                 model 												= "\OPTRE_weapons\backpacks\ODST_ruck.p3d";
 				vehicleClass 										= "OPTRE_UNSC_Backpack_class";
 				allowedSlots[] 										= {901};
@@ -44,17 +44,17 @@ class cfgVehicles
 				hiddenSelections[] 									= {"camo1","pouches","biofoam"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_black_CO.paa"};
         };
-        class OPTRE_S12_SOLA_Jetpack : OPTRE_ILCS_Rucksack_Black 
+        class OPTRE_S12_SOLA_Jetpack : OPTRE_ILCS_Rucksack_Black
 		{
 				dlc = "OPTRE";
 				scope 												= 2;
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black.paa";
-                displayName 										= "[UNSC] S12 SOLA Jetpack";
+                displayName 										= "S12 SOLA Jetpack";
                 model 												= "\OPTRE_weapons\backpacks\jetpack.p3d";
 				maximumLoad 										= 1;
 				mass 												= 60;
 		};
-        class OPTRE_S12_SOLA_Jetpack_On : OPTRE_S12_SOLA_Jetpack 
+        class OPTRE_S12_SOLA_Jetpack_On : OPTRE_S12_SOLA_Jetpack
 		{
 				dlc = "OPTRE";
 				scope 												= 1;
@@ -62,11 +62,11 @@ class cfgVehicles
 				hiddenSelections[]= {"camo1"}; //Determines what hiddenselections are enabled
 				hiddenSelectionsTextures[]= {""};
 		};
-        class OPTRE_Fury_Backpack_Nuke : OPTRE_ILCS_Rucksack_Black 
+        class OPTRE_Fury_Backpack_Nuke : OPTRE_ILCS_Rucksack_Black
 		{
 				dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black.paa";
-                displayName 										= "[UNSC] Fury Portable Nuclear Device";
+                displayName 										= "Fury Portable Nuclear Device";
                 model 												= "\OPTRE_weapons\backpacks\fury.p3d";
 				maximumLoad 										= 1;
 				mass 												= 100;
@@ -75,7 +75,7 @@ class cfgVehicles
 		{
 					dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black_po.paa";
-                displayName 										= "[UNSC] ILCS Rucksack+ [Black]";
+                displayName 										= "ILCS Rucksack+ [Black]";
 				maximumLoad 										= 350;
 				mass 												= 45;
 				hiddenSelections[] 									= {"camo1","biofoam"};
@@ -85,23 +85,23 @@ class cfgVehicles
 		{
 					dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_med.paa";
-                displayName 										= "[UNSC] ILCS Backpack [Medic]";
+                displayName 										= "ILCS Backpack [Medic]";
 				hiddenSelections[] 									= {"camo1"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_med_CO.paa"};
         };
-				
+
 		class OPTRE_ILCS_Rucksack_green : OPTRE_ILCS_Rucksack_Black
 		{
 					dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_green.paa";
-                displayName 										= "[UNSC] ILCS Rucksack [Green]";
+                displayName 										= "ILCS Rucksack [Green]";
 				hiddenSelections[] 									= {"camo1","pouches","biofoam"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_Green_CO.paa"};
         };
 		class OPTRE_ILCS_Rucksack_green_Pouches : OPTRE_ILCS_Rucksack_Black_Pouches
 		{
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_green_po.paa";
-                displayName 										= "[UNSC] ILCS Rucksack+ [Green]";
+                displayName 										= "ILCS Rucksack+ [Green]";
 				hiddenSelections[] 									= {"camo1","biofoam"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_Green_CO.paa"};
         };
@@ -109,7 +109,7 @@ class cfgVehicles
 		{
 					dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_tan.paa";
-                displayName 										= "[UNSC] ILCS Rucksack [Tan]";
+                displayName 										= "ILCS Rucksack [Tan]";
 				hiddenSelections[] 									= {"camo1","pouches","biofoam"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_tan_CO.paa"};
         };
@@ -117,7 +117,7 @@ class cfgVehicles
 		{
 					dlc = "OPTRE";
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_tan_po.paa";
-                displayName 										= "[UNSC] ILCS Rucksack+ [Tan]";
+                displayName 										= "ILCS Rucksack+ [Tan]";
 				hiddenSelections[] 									= {"camo1","biofoam"};
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\ruck_tan_CO.paa"};
         };
@@ -127,7 +127,7 @@ class cfgVehicles
 				picture 											= "\OPTRE_weapons\backpacks\icons\como_pack.paa";
 				transportMaxWeapons 								= 1;
 				transportMaxMagazines 								= 10;
-                displayName 										= "[UNSC] AN/PRC-515";
+                displayName 										= "AN/PRC-515";
 				descriptionShort 									= "AN/PRC-515<br>ODST Long Range Radio<br>25km Effective Range";
                 model 												= "\OPTRE_weapons\backpacks\como_ruck.p3d";
 				maximumLoad 										= 100;
@@ -140,7 +140,7 @@ class cfgVehicles
 				tf_subtype 											= "digital_lr";
 				tf_range 											= 25000;
 				tf_dialogUpdate 									= "call TFAR_fnc_updateLRDialogToChannel;";
-				tf_hasLRradio	 									= 1; 
+				tf_hasLRradio	 									= 1;
         };
 		class OPTRE_ANPRC_521_Green : OPTRE_ANPRC_515
 		{
@@ -148,7 +148,7 @@ class cfgVehicles
 				picture 											= "\OPTRE_weapons\backpacks\icons\como_pack.paa";
 				transportMaxWeapons 								= 2;
 				transportMaxMagazines 								= 25;
-                displayName 										= "[UNSC] AN/PRC-521 [Green]";
+                displayName 										= "AN/PRC-521 [Green]";
 				descriptionShort 									= "AN/PRC-521<br>UNSC Long Range Radio<br>25km Effective Range";
                 model 												= "\OPTRE_weapons\backpacks\radio_pack1.p3d";
 				maximumLoad 										= 150;
@@ -161,12 +161,12 @@ class cfgVehicles
 				tf_subtype 											= "digital_lr";
 				tf_range 											= 25000;
 				tf_dialogUpdate 									= "call TFAR_fnc_updateLRDialogToChannel;";
-				tf_hasLRradio	 									= 1; 
+				tf_hasLRradio	 									= 1;
         };
 		class OPTRE_ANPRC_521_Black : OPTRE_ANPRC_521_Green
 		{
 					dlc = "OPTRE";
-                displayName 										= "[UNSC] AN/PRC-521 [Black]";
+                displayName 										= "AN/PRC-521 [Black]";
 				hiddenSelectionsTextures[] 							= {"OPTRE_Weapons\Backpacks\data\RadioPack1_Black_CO.paa"};
         };
 		class OPTRE_ILCS_Rucksack_Black_AT : OPTRE_ILCS_Rucksack_Black_Pouches
@@ -174,7 +174,7 @@ class cfgVehicles
 					dlc = "OPTRE";
 				scopeArsenal 										= 1;
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black_po.paa";
-                displayName 										= "[UNSC] ILCS Rucksack+ [Black + AT Rockets]";
+                displayName 										= "ILCS Rucksack+ [Black + AT Rockets]";
 				maximumLoad 										= 350;
 				mass 												= 45;
 				hiddenSelections[] 									= {"camo1","biofoam"};
@@ -193,7 +193,7 @@ class cfgVehicles
 					dlc = "OPTRE";
 				scopeArsenal 										= 1;
 				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black_po.paa";
-                displayName 										= "[UNSC] ILCS Rucksack+ [Black + Explosives]";
+                displayName 										= "ILCS Rucksack+ [Black + Explosives]";
 				maximumLoad 										= 350;
 				mass 												= 45;
 				hiddenSelections[] 									= {"camo1","biofoam"};
@@ -236,7 +236,7 @@ class cfgVehicles
 				};
         };
 		class OPTRE_kitbag_rgr_AT : B_Kitbag_rgr {
-			displayname = "[UNSC] AT Rocket Pack";
+			displayname = "AT Rocket Pack";
 			scopeArsenal 										= 1;
 			class TransportMagazines
 				{
@@ -248,7 +248,7 @@ class cfgVehicles
 				};
 		};
 		class OPTRE_kitbag_rgr_AA : B_Kitbag_rgr {
-			displayname = "[UNSC] AA Rocket Pack";
+			displayname = "AA Rocket Pack";
 			scopeArsenal 										= 1;
 			class TransportMagazines
 			{
@@ -260,7 +260,7 @@ class cfgVehicles
 			};
 		};
 		class OPTRE_kitbag_rgr_EXP : B_Kitbag_rgr {
-		displayname = "[UNSC] Demolitions Pack";
+		displayname = "Demolitions Pack";
 		scopeArsenal 										= 1;
 		class TransportMagazines
 			{
@@ -300,7 +300,7 @@ class cfgVehicles
 			};
 		};
 		class OPTRE_kitbag_rgr_ENG : B_Kitbag_rgr {
-		displayname = "[UNSC] Engineer Pack";
+		displayname = "Engineer Pack";
 		scopeArsenal 										= 1;
 		class TransportItems
 			{

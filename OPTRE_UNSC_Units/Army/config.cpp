@@ -1976,7 +1976,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Neural Implant Vision Enhancement";
+		displayName										= "Neural Implant Vision Enhancement";
 		modelOptics 									= "";
 		class ItemInfo
 		{
@@ -1995,7 +1995,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope											= 2;
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU [Woodland]";
+		displayName										= "Army BDU [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl_hvy.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -2011,7 +2011,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Medium) [Woodland]";
+		displayName										= "Army BDU (Medium) [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl_hvy.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2023,7 +2023,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Light) [Woodland]";
+		displayName										= "Army BDU (Light) [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2036,7 +2036,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU [Desert]";
+		displayName										= "Army BDU [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des_hvy.paa";
 		class ItemInfo: UniformItem
 		{
@@ -2051,7 +2051,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Medium) [Desert]";
+		displayName										= "Army BDU (Medium) [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des_hvy.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2063,7 +2063,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Light) [Desert]";
+		displayName										= "Army BDU (Light) [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2076,7 +2076,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU [Tropic]";
+		displayName										= "Army BDU [Tropic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl_hvy.paa";
 		class ItemInfo: UniformItem
 		{
@@ -2091,7 +2091,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Medium) [Tropic]";
+		displayName										= "Army BDU (Medium) [Tropic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl_hvy.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2103,7 +2103,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Light) [Tropic]";
+		displayName										= "Army BDU (Light) [Tropic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_wdl.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2116,7 +2116,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU [Arid]";
+		displayName										= "Army BDU [Arid]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des_hvy.paa";
 		class ItemInfo: UniformItem
 		{
@@ -2131,7 +2131,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Medium) [Arid]";
+		displayName										= "Army BDU (Medium) [Arid]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des_hvy.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2143,7 +2143,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Light) [Arid]";
+		displayName										= "Army BDU (Light) [Arid]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_des.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2156,7 +2156,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU [Snow]";
+		displayName										= "Army BDU [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_sno_hvy.paa";
 		class ItemInfo: UniformItem
 		{
@@ -2171,7 +2171,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Medium) [Snow]";
+		displayName										= "Army BDU (Medium) [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_sno_hvy.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2183,7 +2183,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Army BDU (Light) [Snow]";
+		displayName										= "Army BDU (Light) [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_sno.paa";
 		class ItemInfo: ItemInfo
 		{
@@ -2196,7 +2196,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope											= 2;
 		author											= "Article 2 Studios";
-		displayName										= "[UNSC] Medical BDU";
+		displayName										= "Medical BDU";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\army_uniform_med.paa";
 		model											= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -2270,7 +2270,7 @@ class cfgWeapons
 		scope											= 2;
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName  									= "[UNSC] M52 Body Armor [Woodland]";
+		displayName  									= "M52 Body Armor [Woodland]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_neck","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa","OPTRE_UNSC_Units\Army\data\pouches_olive_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2284,7 +2284,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl_vac.paa";
-		displayName  									= "[UNSC] M52[V] Body Armor [Woodland]";
+		displayName  									= "M52[V] Body Armor [Woodland]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa","OPTRE_UNSC_Units\Army\data\pouches_olive_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2338,7 +2338,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl_gil.paa";
-		displayName  									= "[UNSC] M52[S] Body Armor [Woodland]";
+		displayName  									= "M52[S] Body Armor [Woodland]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","camo4","insignia","clan","attach_neck"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa","OPTRE_UNSC_Units\Army\data\pouches_olive_co.paa","optre_unsc_units\army\data\ghillie_woodland_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2353,7 +2353,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_des.paa";
-		displayName  									= "[UNSC] M52 Body Armor [Desert]";
+		displayName  									= "M52 Body Armor [Desert]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_neck","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa","OPTRE_UNSC_Units\Army\data\pouches_brown_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2367,7 +2367,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_des_vac.paa";
-		displayName  									= "[UNSC] M52[V] Body Armor [Desert]";
+		displayName  									= "M52[V] Body Armor [Desert]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa","OPTRE_UNSC_Units\Army\data\pouches_brown_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2381,7 +2381,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_des_gil.paa";
-		displayName  									= "[UNSC] M52[S] Body Armor [Desert]";
+		displayName  									= "M52[S] Body Armor [Desert]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","camo4","insignia","clan","attach_neck"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa","OPTRE_UNSC_Units\Army\data\pouches_brown_co.paa","optre_unsc_units\army\data\ghillie_desert_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2396,7 +2396,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_sno.paa";
-		displayName  									= "[UNSC] M52 Body Armor [Snow]";
+		displayName  									= "M52 Body Armor [Snow]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_neck","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_snow_co.paa","OPTRE_UNSC_Units\Army\data\addons_snow_co.paa","OPTRE_UNSC_Units\Army\data\pouches_black_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2410,7 +2410,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_sno_vac.paa";
-		displayName  									= "[UNSC] M52[V] Body Armor [Snow]";
+		displayName  									= "M52[V] Body Armor [Snow]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_pack","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_snow_co.paa","OPTRE_UNSC_Units\Army\data\addons_snow_co.paa","OPTRE_UNSC_Units\Army\data\pouches_black_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2425,7 +2425,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_med.paa";
-		displayName  									= "[UNSC] M52 Body Armor [Medic]";
+		displayName  									= "M52 Body Armor [Medic]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_neck","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_medic_co.paa","OPTRE_UNSC_Units\Army\data\addons_medic_co.paa","OPTRE_UNSC_Units\Army\data\pouches_black_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2439,7 +2439,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_vest_med_vac.paa";
-		displayName  									= "[UNSC] M52[V] Body Armor [Medic]";
+		displayName  									= "M52[V] Body Armor [Medic]";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_knife","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\vest_medic_co.paa","OPTRE_UNSC_Units\Army\data\addons_medic_co.paa","OPTRE_UNSC_Units\Army\data\pouches_black_co.paa"};
 		class ItemInfo: ItemInfo
@@ -2488,7 +2488,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope   										= 2;
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet [Woodland]";
+		displayName    									= "CH252 Helmet [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_wdl.paa";
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa"};
@@ -2503,7 +2503,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope   										= 2;
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet (Balaclava) [Woodland]";
+		displayName    									= "CH252 Helmet (Balaclava) [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_wdl.paa";
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa"};
@@ -2517,7 +2517,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[V] Helmet [Woodland]";
+		displayName    									= "CH252[V] Helmet [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_wdl_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa"};
@@ -2541,7 +2541,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[S] Helmet [Woodland]";
+		displayName    									= "CH252[S] Helmet [Woodland]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_wdl_gil.paa";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_face"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_co.paa","OPTRE_UNSC_Units\Army\data\addons_co.paa","optre_unsc_units\army\data\ghillie_woodland_co.paa"};
@@ -2556,7 +2556,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet [Desert]";
+		displayName    									= "CH252 Helmet [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_des.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_face","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa"};
@@ -2570,7 +2570,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet (Balaclava) [Desert]";
+		displayName    									= "CH252 Helmet (Balaclava) [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_des.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_face","attach_rangefinder","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa"};
@@ -2584,7 +2584,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[V] Helmet [Desert]";
+		displayName    									= "CH252[V] Helmet [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_DES_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa"};
@@ -2599,7 +2599,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[S] Helmet [Desert]";
+		displayName    									= "CH252[S] Helmet [Desert]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_DES_gil.paa";
 		hiddenSelections[]   							= {"camo1","camo2","camo3","insignia","clan","attach_face"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_desert_co.paa","OPTRE_UNSC_Units\Army\data\addons_desert_co.paa","optre_unsc_units\army\data\ghillie_desert_co.paa"};
@@ -2614,7 +2614,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet [Snow]";
+		displayName    									= "CH252 Helmet [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_sno.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_face","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_snow_co.paa","OPTRE_UNSC_Units\Army\data\addons_snow_co.paa"};
@@ -2628,7 +2628,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet (Balaclava) [Snow]";
+		displayName    									= "CH252 Helmet (Balaclava) [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_sno.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_face","attach_rangefinder","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_snow_co.paa","OPTRE_UNSC_Units\Army\data\addons_snow_co.paa"};
@@ -2642,7 +2642,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[V] Helmet [Snow]";
+		displayName    									= "CH252[V] Helmet [Snow]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_sno_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_snow_co.paa","OPTRE_UNSC_Units\Army\data\addons_snow_co.paa"};
@@ -2658,7 +2658,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet [Medic]";
+		displayName    									= "CH252 Helmet [Medic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_med.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_face","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_medic_co.paa","OPTRE_UNSC_Units\Army\data\addons_medic_co.paa"};
@@ -2672,7 +2672,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet (Balaclava) [Medic]";
+		displayName    									= "CH252 Helmet (Balaclava) [Medic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_med_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_rangefinder","attach_ghillie","attach_face","attach_chin"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_medic_co.paa","OPTRE_UNSC_Units\Army\data\addons_medic_co.paa"};
@@ -2687,7 +2687,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[V] Helmet [Medic]";
+		displayName    									= "CH252[V] Helmet [Medic]";
 		picture   										= "\OPTRE_UNSC_Units\Army\icons\Army_Helmet_med_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","insignia","clan","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Army\data\helmet_medic_co.paa","OPTRE_UNSC_Units\Army\data\addons_medic_co.paa"};
@@ -2703,61 +2703,61 @@ class cfgWeapons
 	class OPTRE_PatrolCap_Army_WDL: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Woodland]";
+		displayname 									= "Patrol Cap [Woodland]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\cappatrol_woodland_co.paa"};
 	};
 	class OPTRE_BoonieHat_Army_WDL: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Woodland]";
+		displayname 									= "Boonie Hat [Woodland]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\booniehat_woodland_co.paa"};
 	};	
 	class OPTRE_PatrolCap_Army_DES: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Desert]";
+		displayname 									= "Patrol Cap [Desert]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\cappatrol_Desert_co.paa"};
 	};
 	class OPTRE_BoonieHat_Army_DES: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Desert]";
+		displayname 									= "Boonie Hat [Desert]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\booniehat_Desert_co.paa"};
 	};
 	class OPTRE_PatrolCap_Army_TRO: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Tropic]";
+		displayname 									= "Patrol Cap [Tropic]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\cappatrol_Tropic_co.paa"};
 	};
 	class OPTRE_BoonieHat_Army_TRO: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Tropic]";
+		displayname 									= "Boonie Hat [Tropic]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\booniehat_Tropic_co.paa"};
 	};
 	class OPTRE_PatrolCap_Army_ARI: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Arid]";
+		displayname 									= "Patrol Cap [Arid]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\cappatrol_Arid_co.paa"};
 	};
 	class OPTRE_BoonieHat_Army_ARI: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Arid]";
+		displayname 									= "Boonie Hat [Arid]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\booniehat_Arid_co.paa"};
 	};
 	class OPTRE_PatrolCap_Army_SNO: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Snow]";
+		displayname 									= "Patrol Cap [Snow]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\cappatrol_Snow_co.paa"};
 	};
 	class OPTRE_BoonieHat_Army_SNO: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Snow]";
+		displayname 									= "Boonie Hat [Snow]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Army\data\booniehat_Snow_co.paa"};
 	};
 	// HELMETS END

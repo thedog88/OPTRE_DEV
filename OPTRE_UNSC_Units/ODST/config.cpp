@@ -544,7 +544,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full)";
+		displayName																				= "ODST BDU (Full)";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_uniform.paa";
 		model																					= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -560,7 +560,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Light)";
+		displayName																				= "ODST BDU (Light)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_L";
@@ -571,7 +571,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Medium)";
+		displayName																				= "ODST BDU (Medium)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_M";
@@ -583,7 +583,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_uniform_left.paa";
-		displayName																				= "[UNSC] ODST BDU (Sniper)";
+		displayName																				= "ODST BDU (Sniper)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Sniper";
@@ -595,7 +595,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_uniform_med.paa";
-		displayName																				= "[UNSC] ODST BDU (Full) [Medic]";
+		displayName																				= "ODST BDU (Full) [Medic]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Medic";
@@ -605,7 +605,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Scorch]";
+		displayName																				= "ODST BDU (Full) [Scorch]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Scorch";
@@ -615,7 +615,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [The Dog]";
+		displayName																				= "ODST BDU (Full) [The Dog]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_TheDog";
@@ -625,7 +625,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Stirls]";
+		displayName																				= "ODST BDU (Full) [Stirls]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Stirls";
@@ -635,7 +635,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Urban]";
+		displayName																				= "ODST BDU (Full) [Urban]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Urban";
@@ -645,7 +645,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Zero]";
+		displayName																				= "ODST BDU (Full) [Zero]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Zero";
@@ -655,7 +655,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Convader]";
+		displayName																				= "ODST BDU (Full) [Convader]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Convader";
@@ -665,7 +665,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST BDU (Full) [Evil Flea]";
+		displayName																				= "ODST BDU (Full) [Evil Flea]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_EvilFlea";
@@ -676,7 +676,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_instr.paa";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST Fatigues [Instructor]";
+		displayName																				= "ODST Fatigues [Instructor]";
 		class ItemInfo: ItemInfo
 		{
 			uniformModel																		= "-";
@@ -691,7 +691,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_recruit.paa";
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] ODST Fatigues [Recruit]";
+		displayName																				= "ODST Fatigues [Recruit]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ODST_Soldier_Recruit";
@@ -765,7 +765,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope 																					= 2;
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [ODST]";
+		displayName  																			= "M53 Body Armor [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_knife","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"optre_unsc_units\odst\data\vest_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -778,7 +778,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Medic]";
+		displayName  																			= "M53 Body Armor [Medic]";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_vest_med.paa";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_knife","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_medic_co.paa",""};
@@ -792,7 +792,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Scorch]";
+		displayName  																			= "M53 Body Armor [Scorch]";
 		hiddenSelections[]   																	= {"camo1","camo2"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_scorch_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -805,7 +805,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [The Dog]";
+		displayName  																			= "M53 Body Armor [The Dog]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_knife","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_thedog_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -818,7 +818,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Zero]";
+		displayName  																			= "M53 Body Armor [Zero]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_knife","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_zero_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -831,7 +831,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Stirls]";
+		displayName  																			= "M53 Body Armor [Stirls]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_stirls_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -844,7 +844,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Urban]";
+		displayName  																			= "M53 Body Armor [Urban]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_urban_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -857,7 +857,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Convader]";
+		displayName  																			= "M53 Body Armor [Convader]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_convader_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -870,7 +870,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Evil Flea]";
+		displayName  																			= "M53 Body Armor [Evil Flea]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_evilflea_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -883,7 +883,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Red]";
+		displayName  																			= "M53 Body Armor [Red]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_red_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -896,7 +896,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Blue]";
+		displayName  																			= "M53 Body Armor [Blue]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_blue_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -909,7 +909,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Yellow]";
+		displayName  																			= "M53 Body Armor [Yellow]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_yellow_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -922,7 +922,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Orange]";
+		displayName  																			= "M53 Body Armor [Orange]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_orange_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -935,7 +935,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Purple]";
+		displayName  																			= "M53 Body Armor [Purple]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_purple_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -948,7 +948,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [Green]";
+		displayName  																			= "M53 Body Armor [Green]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade","attach_knife"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_green_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -961,7 +961,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName  																			= "[UNSC] M53 Body Armor [BW]";
+		displayName  																			= "M53 Body Armor [BW]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_nade"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\vest_bw_co.paa",""};
 		class ItemInfo: ItemInfo
@@ -1011,7 +1011,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope   																			  	= 2;
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [ODST]";
+		displayName    																			= "CH253 Helmet [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1025,7 +1025,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_helmet_recon.paa";
-		displayName    																			= "[UNSC] CH253 Helmet (Recon) [ODST]";
+		displayName    																			= "CH253 Helmet (Recon) [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_communication","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet2_co.paa","OPTRE_UNSC_Units\ODST\data\helmet2_co.paa"};
 		class ItemInfo: ItemInfo
@@ -1039,7 +1039,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_helmet_sniper.paa";
-		displayName    																			= "[UNSC] CH253 Helmet (Sniper) [ODST]";
+		displayName    																			= "CH253 Helmet (Sniper) [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_rebreather", "attach_laser"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet1_co.paa","OPTRE_UNSC_Units\ODST\data\helmet1_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1053,7 +1053,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_helmet_como.paa";
-		displayName    																			= "[UNSC] CH253 Helmet (Comms) [ODST]";
+		displayName    																			= "CH253 Helmet (Comms) [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_rebreather","attach_rangefinder","attach_laser"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet3_co.paa","OPTRE_UNSC_Units\ODST\data\helmet3_co.paa"};
 		class ItemInfo: ItemInfo
@@ -1067,7 +1067,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_helmet_como.paa";
-		displayName    																			= "[UNSC] CH253 Helmet (CBRN) [ODST]";
+		displayName    																			= "CH253 Helmet (CBRN) [ODST]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_rangefinder","attach_laser"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet3_co.paa","OPTRE_UNSC_Units\ODST\data\helmet3_co.paa"};
 		class ItemInfo: ItemInfo
@@ -1081,7 +1081,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_helmet_med.paa";
-		displayName    																			= "[UNSC] CH253 Helmet [Medic]";
+		displayName    																			= "CH253 Helmet [Medic]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_rebreather","attach_rangefinder", "attach_laser"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_medic_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_medic_co.paa"};
 		class ItemInfo: ItemInfo
@@ -1094,7 +1094,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Scorch]";
+		displayName    																			= "CH253 Helmet [Scorch]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_rangefinder"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_scorch_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_scorch_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1107,7 +1107,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [The Dog]";
+		displayName    																			= "CH253 Helmet [The Dog]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_thedog_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_thedog_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1120,7 +1120,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Zero]";
+		displayName    																			= "CH253 Helmet [Zero]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather","attach_communication"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_zero_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_zero_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1133,7 +1133,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Stirls]";
+		displayName    																			= "CH253 Helmet [Stirls]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather","attach_communication"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_stirls_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_stirls_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1146,7 +1146,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Urban]";
+		displayName    																			= "CH253 Helmet [Urban]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather","attach_communication"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_Urban_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_urban_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1159,7 +1159,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Convader]";
+		displayName    																			= "CH253 Helmet [Convader]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_convader_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_convader_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1172,7 +1172,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Evil Flea]";
+		displayName    																			= "CH253 Helmet [Evil Flea]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_communication","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_evilflea_co.paa","OPTRE_UNSC_Units\ODST\data\helmet2_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1185,7 +1185,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Red]";
+		displayName    																			= "CH253 Helmet [Red]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_red_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_red_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1198,7 +1198,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Blue]";
+		displayName    																			= "CH253 Helmet [Blue]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_blue_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_blue_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1211,7 +1211,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Yellow]";
+		displayName    																			= "CH253 Helmet [Yellow]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_yellow_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_yellow_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1224,7 +1224,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Orange]";
+		displayName    																			= "CH253 Helmet [Orange]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_orange_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_orange_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1237,7 +1237,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Purple]";
+		displayName    																			= "CH253 Helmet [Purple]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_purple_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_purple_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1250,7 +1250,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
-		displayName    																			= "[UNSC] CH253 Helmet [Green]";
+		displayName    																			= "CH253 Helmet [Green]";
 		hiddenSelections[]   																	= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\helmet_green_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_green_co.paa"};
 		class ItemInfo: ItemInfo 
@@ -1530,7 +1530,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_recon.paa";
-		displayName    																			= "[UNSC] R/B5 Helmet";
+		displayName    																			= "R/B5 Helmet";
 		model     																				= "\OPTRE_UNSC_Units\ODST\recon_helmet.p3d";
 		hiddenSelections[]   																	= {"camo1","camo2"};
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\recon_helmet_co.paa","OPTRE_UNSC_Units\ODST\data\recon_helmet_co.paa"};
@@ -1562,14 +1562,14 @@ class cfgWeapons
 		dlc = "OPTRE";
 		author																					= "Article 2 Studios";
 		picture   																				= "\OPTRE_UNSC_Units\ODST\icons\odst_hat.paa";
-		displayName    																			= "[UNSC] Cap [ODST]";
+		displayName    																			= "Cap [ODST]";
 		hiddenSelectionsTextures[]   															= {"OPTRE_UNSC_Units\ODST\data\instructor_hat_co.paa"};
 	};
 	class H_Booniehat_khk;
 	class OPTRE_BoonieHat_ODST: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [ODST]";
+		displayname 									= "Boonie Hat [ODST]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\ODST\data\booniehat_odst_co.paa"};
 	};	
 	// HELMETS END

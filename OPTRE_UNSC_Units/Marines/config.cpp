@@ -523,7 +523,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope															= 2;
 		author															= "Article 2 Studios";
-		displayName														= "[UNSC] Marine BDU";
+		displayName														= "Marine BDU";
 		picture   														= "\OPTRE_UNSC_Units\marines\icons\marine_uniform_hvy.paa";
 		model															= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
@@ -539,7 +539,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author															= "Article 2 Studios";
-		displayName														= "[UNSC] Marine BDU (Medium)";
+		displayName														= "Marine BDU (Medium)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass												= "OPTRE_UNSC_Marine_Soldier_M";
@@ -550,7 +550,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author															= "Article 2 Studios";
-		displayName														= "[UNSC] Marine BDU (Light)";
+		displayName														= "Marine BDU (Light)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass												= "OPTRE_UNSC_Marine_Soldier_L";
@@ -561,7 +561,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";
 		author															= "Article 2 Studios";
-		displayName														= "[UNSC] Marine BDU (Pilot)";
+		displayName														= "Marine BDU (Pilot)";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass												= "OPTRE_UNSC_Marine_Pilot";
@@ -623,7 +623,7 @@ class cfgWeapons
 		dlc = "OPTRE";	
 		scope 															= 2;
 		author															= "Article 2 Studios";
-		displayName  													= "[UNSC] M52 Body Armor [Marine]";
+		displayName  													= "M52 Body Armor [Marine]";
 		hiddenSelections[]   											= {"camo1","camo2","camo3","attach_knife","attach_neck","attach_ghillie"};
 		hiddenSelectionsTextures[]   									= {"OPTRE_UNSC_Units\Marines\data\vest_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa","OPTRE_UNSC_Units\Army\data\pouches_khaki_co.paa"};
 		class ItemInfo: ItemInfo
@@ -636,7 +636,7 @@ class cfgWeapons
 	{
 		dlc = "OPTRE";	
 		author															= "Article 2 Studios";
-		displayName  													= "[UNSC] M52[V] Body Armor [Marine]";
+		displayName  													= "M52[V] Body Armor [Marine]";
 		picture   														= "\OPTRE_UNSC_Units\marines\icons\marine_vest_vac.paa";
 		hiddenSelections[]   											= {"camo1","camo2","camo3","attach_knife","attach_ghillie"};
 		hiddenSelectionsTextures[]   									= {"OPTRE_UNSC_Units\Marines\data\vest_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa","OPTRE_UNSC_Units\Army\data\pouches_khaki_co.paa"};
@@ -690,7 +690,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author															= "Article 2 Studios";
-		displayName  													= "[UNSC] M52[S] Body Armor [Marine]";
+		displayName  													= "M52[S] Body Armor [Marine]";
 		picture   														= "\OPTRE_UNSC_Units\marines\icons\marine_vest_vac.paa";
 		hiddenSelections[]   											= {"camo1","camo2","camo3","attach_neck"};
 		hiddenSelectionsTextures[]   									= {"OPTRE_UNSC_Units\Marines\data\vest_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa","OPTRE_UNSC_Units\Army\data\pouches_khaki_co.paa"};
@@ -740,7 +740,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope   										= 2;
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet [Marine]";
+		displayName    									= "CH252 Helmet [Marine]";
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie","attach_balaclava"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Marines\data\helmet_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa"};
 		class ItemInfo: ItemInfo
@@ -754,7 +754,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope   										= 2;
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252 Helmet (Balaclava) [Marine]";
+		displayName    									= "CH252 Helmet (Balaclava) [Marine]";
 		hiddenSelections[]   							= {"camo1","camo2","attach_face","attach_rangefinder","attach_ghillie"};
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Marines\data\helmet_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa"};
 		class ItemInfo: ItemInfo
@@ -767,7 +767,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[V] Helmet [Marine]";
+		displayName    									= "CH252[V] Helmet [Marine]";
 		picture   										= "\OPTRE_UNSC_Units\marines\icons\marine_helmet_vac.paa";
 		hiddenSelections[]   							= {"camo1","camo2","attach_rangefinder","attach_ghillie","attach_balaclava"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Marines\data\helmet_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa"};
@@ -781,7 +781,7 @@ class cfgWeapons
 	{	
 		dlc = "OPTRE";
 		author											= "Article 2 Studios";
-		displayName    									= "[UNSC] CH252[S] Helmet [Marine]";
+		displayName    									= "CH252[S] Helmet [Marine]";
 		picture   										= "\OPTRE_UNSC_Units\army\icons\army_helmet_des_gil.paa";
 		hiddenSelections[]   							= {"camo1","camo2","attach_face"}; 
 		hiddenSelectionsTextures[]   					= {"OPTRE_UNSC_Units\Marines\data\helmet_marines_co.paa","OPTRE_UNSC_Units\Marines\data\addons_marines_co.paa"};
@@ -794,13 +794,13 @@ class cfgWeapons
 	class OPTRE_PatrolCap_Marine: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Patrol Cap [Marines]";
+		displayname 									= "Patrol Cap [Marines]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Marines\data\cappatrol_marine_co.paa"};
 	};
 	class OPTRE_BoonieHat_Marine: H_Booniehat_khk 
 	{
 		dlc = "OPTRE";
-		displayname 									= "[UNSC] Boonie Hat [Marines]";
+		displayname 									= "Boonie Hat [Marines]";
 		hiddenselectionstextures[] 						= {"OPTRE_UNSC_Units\Marines\data\booniehat_marine_co.paa"};
 	};
 	// HELMETS END

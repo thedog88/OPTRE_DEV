@@ -410,7 +410,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Yellow]";
+		displayName																				= "Naval BDU [Yellow]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Yellow";
@@ -421,7 +421,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Orange]";
+		displayName																				= "Naval BDU [Orange]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Orange";
@@ -432,7 +432,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Red]";
+		displayName																				= "Naval BDU [Red]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Red";
@@ -443,7 +443,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Blue]";
+		displayName																				= "Naval BDU [Blue]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Blue";
@@ -454,7 +454,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Gray]";
+		displayName																				= "Naval BDU [Gray]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Gray";
@@ -465,7 +465,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [Olive]";
+		displayName																				= "Naval BDU [Olive]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_Olive";
@@ -476,7 +476,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [White]";
+		displayName																				= "Naval BDU [White]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_Navy_Soldier_White";
@@ -487,7 +487,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope																					= 2;
 		author																					= "Article 2 Studios";
-		displayName																				= "[UNSC] Naval BDU [ONI]";
+		displayName																				= "Naval BDU [ONI]";
 		class ItemInfo: ItemInfo
 		{
 			uniformClass																		= "OPTRE_UNSC_ONI_Soldier_Naval";
@@ -501,20 +501,20 @@ class cfgWeapons
 	class OPTRE_PatrolCap_Navy: H_MilCap_blue 
 	{
 		dlc = "OPTRE";
-		displayname 																			= "[UNSC] Patrol Cap [Navy]";
+		displayname 																			= "Patrol Cap [Navy]";
 		hiddenselectionstextures[] 																= {"OPTRE_UNSC_Units\Navy\data\patrolcap_Navy_co.paa"};
 	};
 	class OPTRE_Cap_FinalDawn: H_Cap_oli 
 	{
 		dlc = "OPTRE";
-		displayname 																			= "[UNSC] Cap [Final Dawn]";
+		displayname 																			= "Cap [Final Dawn]";
 		hiddenselectionstextures[] 																= {"OPTRE_UNSC_Units\Navy\data\cap_FinalDawn_co.paa"};
 	};
 	class OPTRE_Helmet_NavyDeckCrew: H_HelmetCrew_B 
 	{
 		dlc = "OPTRE";
 		scope = 2;
-		displayname = "[UNSC] Flight Deck Helmet [Navy]";
+		displayname = "Flight Deck Helmet [Navy]";
 		hiddenselectionstextures[] = {"OPTRE_UNSC_Units\Navy\data\helmet_deckcrew_co.paa"};
 	};
 	// HELMETS END

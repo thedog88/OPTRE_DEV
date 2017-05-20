@@ -6,7 +6,7 @@ class CfgPatches //This configures the identification of the pbo to the game
 		weapons[] 																				= {};																								
 		requiredVersion 																		= 0.1;
 		version																					= 0.1;
-		requiredAddons[] 																		= {"ACE_Main", "OPTRE_Weapons", "OPTRE_Vehicles", "OPTRE_UNSC_Units", "OPTRE_Misc"};
+		requiredAddons[] 																		= {"OPTRE_Weapons", "OPTRE_Vehicles", "OPTRE_UNSC_Units", "OPTRE_Misc"};
 		author[] 																				= {"Article 2 Studios"};
 		fileName 																				= "OPTRE_ACE_Compat.pbo";
 	};
