@@ -48,7 +48,7 @@ class cfgVehicles
 		{
 				dlc = "OPTRE";
 				scope 												= 2;
-				picture 											= "\OPTRE_weapons\backpacks\icons\rucksack_black.paa";
+				picture 											= "\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
                 displayName 										= "S12 SOLA Jetpack";
                 model 												= "\OPTRE_weapons\backpacks\jetpack.p3d";
 				maximumLoad 										= 1;
@@ -145,7 +145,7 @@ class cfgVehicles
 		class OPTRE_ANPRC_521_Green : OPTRE_ANPRC_515
 		{
 					dlc = "OPTRE";
-				picture 											= "\OPTRE_weapons\backpacks\icons\como_pack.paa";
+				picture 											= "\OPTRE_weapons\backpacks\icons\icon_b_anprc521_ca.paa";
 				transportMaxWeapons 								= 2;
 				transportMaxMagazines 								= 25;
                 displayName 										= "AN/PRC-521 [Green]";

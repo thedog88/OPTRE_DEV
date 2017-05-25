@@ -59,8 +59,8 @@ class CfgVehicles
 		weapons[] =	{};
 		magazines[] = {};
 
-		icon = "A3\Air_F_Gamma\Plane_Fighter_03\Data\UI\Map_Plane_Fighter_03_CA.paa";
-		picture = "A3\Air_F_Gamma\Plane_Fighter_03\Data\UI\Plane_Fighter_03_CA.paa";
+		icon = "OPTRE_Vehicles\Pod\data\bumblebee_picture_ca.paa";
+		picture = "OPTRE_Vehicles\Pod\data\bumblebee_UI.paa";
 
 		driverAction = passenger_apc_narrow_generic01;
 		cargoAction[] = {"passenger_apc_narrow_generic01"};

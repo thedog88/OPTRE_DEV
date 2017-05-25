@@ -82,7 +82,7 @@ class CfgWeapons
 		model										= "\OPTRE_Weapons\DMR\DMR.p3d";
 		displayName 								= "M392 DMR";
 		descriptionShort 							= "UNSC Marksman Rifle";
-		picture 									= "\OPTRE_weapons\br\icons\br.paa";
+		picture 									= "\OPTRE_Weapons\DMR\data\dmr_icon_ca.paa";
 		pictureWire 								= "\OPTRE_Weapons\data\Pictures\WireWeaponIcons\Prime\BattleRifle\BR_SCOPE.paa";
 		ODST_1																	= "OPTRE_ODST_HUD_AmmoCount_DMR";
 		Glasses																	= "OPTRE_GLASS_HUD_AmmoCount_DMR";
