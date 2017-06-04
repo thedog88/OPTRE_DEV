@@ -18,7 +18,7 @@ class CfgMods
 	class OPTRE: Mod_Base
 	{
 		logo = "OPTRE_Core\Data\logo_ca.paa";
-		dir = "@OPTRE";
+		//dir = "@Operation: TREBUCHET";
 		picture = "OPTRE_Core\Data\logo_ca.paa";
 		name = "Operation: TREBUCHET";
 	};

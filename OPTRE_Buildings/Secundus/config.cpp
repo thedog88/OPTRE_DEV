@@ -985,7 +985,7 @@ class secundus_hallway_decomp: House_F
 				animPeriod = 2;		/// how long does it take to change value from 0 to 1 (or vice versa)
 				initPhase = 0;		/// what value does it have while creating the vehicle
 				sound = "ServoRampSound_2";
-			};;
+			};
 		};
 		class UserActions
 		{

@@ -161,8 +161,12 @@ class CfgWeapons
      
        //WEAPONS
      
-            class SMG_01_F;
-            class OPTRE_M7: SMG_01_F
+			class Rifle_Base_F;
+			class Rifle_Short_Base_F: Rifle_Base_F
+			{
+				class WeaponSlotsInfo;
+			};
+            class OPTRE_M7: Rifle_Base_F
             {
 					dlc = "OPTRE";
                     scope                                                                   = 2;
@@ -456,7 +460,7 @@ class CfgWeapons
             };
 			class OPTRE_M7S: OPTRE_M7
 			{
-		dlc = "OPTRE";
+				dlc = "OPTRE";
 				class LinkedItems
 				{
 					class LinkedItemsOptic

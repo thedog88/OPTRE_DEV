@@ -206,8 +206,8 @@ class CfgVehicles
 		displayName														= "Rifleman (MA5)";
 		vehicleClass													= "OPTRE_UNSC_Man_Marines_class";
 		backpack 														= "B_Kitbag_rgr";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 	};
@@ -230,8 +230,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "Rifleman (AT)";
 		backpack 														= "OPTRE_kitbag_rgr_AT";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT","OPTRE_M41_Twin_HEAT","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT","OPTRE_M41_Twin_HEAT","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		icon 															= "iconManAT";
@@ -244,8 +244,8 @@ class CfgVehicles
 		displayName														= "Rifleman (Light)";
 		linkedItems[] 													= {"OPTRE_UNSC_Marine_Vest","OPTRE_BoonieHat_Marine","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
 		respawnLinkedItems[] 											= {"OPTRE_UNSC_Marine_Vest","OPTRE_BoonieHat_Marine","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 	};
@@ -256,8 +256,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "AT Specialist";
 		backpack 														= "OPTRE_kitbag_rgr_AT";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT_G","OPTRE_M41_Twin_HEAT_G","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT_G","OPTRE_M41_Twin_HEAT_G","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		icon 															= "iconManAT";
@@ -269,8 +269,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "AA Specialist";
 		backpack 														= "OPTRE_kitbag_rgr_AA";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR_G"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put","OPTRE_M41_SSR_G"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR_G"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put","OPTRE_M41_SSR_G"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT_G","OPTRE_M41_Twin_HEAT_G","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_M41_Twin_HEAT_G","OPTRE_M41_Twin_HEAT_G","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		icon 															= "iconManAT";
@@ -309,8 +309,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "Team Leader";
 		backpack 														= "B_Kitbag_rgr";
-		weapons[] 														= {"OPTRE_MA5BGL_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5BGL_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5BGL","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5BGL","Throw","Put"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag_Tracer","OPTRE_60Rnd_762x51_Mag_Tracer","OPTRE_60Rnd_762x51_Mag_Tracer","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_Smoke_Grenade_shell","1Rnd_Smoke_Grenade_shell","1Rnd_SmokeBlue_Grenade_shell","1Rnd_SmokeGreen_Grenade_shell","1Rnd_SmokeRed_Grenade_shell","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Orange","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag_Tracer","OPTRE_60Rnd_762x51_Mag_Tracer","OPTRE_60Rnd_762x51_Mag_Tracer","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_Smoke_Grenade_shell","1Rnd_Smoke_Grenade_shell","1Rnd_SmokeBlue_Grenade_shell","1Rnd_SmokeGreen_Grenade_shell","1Rnd_SmokeRed_Grenade_shell","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Orange","OPTRE_M2_Smoke_Green"};
 		icon 															= "iconManLeader";
@@ -335,8 +335,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "Grenadier";
 		backpack 														= "B_Kitbag_rgr";
-		weapons[] 														= {"OPTRE_MA5BGL_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5BGL_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5BGL","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5BGL","Throw","Put"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell","1Rnd_HE_Grenade_shell"};
 	};
@@ -360,8 +360,8 @@ class CfgVehicles
 		scopeCurator													= 2;
 		displayName														= "Assistant Autorifleman";
 		backpack 														= "B_Kitbag_rgr";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put"};
 		magazines[] 													= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag"};
 		respawnMagazines[] 												= {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag"};
 	};

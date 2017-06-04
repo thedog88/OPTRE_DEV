@@ -66,7 +66,7 @@
      
             //WEAPONS
 			class Rifle_Base_F;
-			class Rifle_Long_Base_F: Rifle_Base_F
+			/*class Rifle_Long_Base_F: Rifle_Base_F
 			{
 				class WeaponSlotsInfo;
 				class GunParticles;
@@ -90,12 +90,10 @@
 						directionName="nabojniceend";
 					};
 				};
-			};
-            class OPTRE_M73_base: LMG_Mk200_F
+			};*/
+            class OPTRE_M73_base: Rifle_Base_F
             {
 					dlc = "OPTRE";		
-                    scope                                                                   = 0;
-					scopeArsenal															= 0;
                     handAnim[]                                                              = {"OFP2_ManSkeleton", "\OPTRE_Weapons\MG\data\anim\M73_1.rtm"};
                     model                                                                   = "\OPTRE_Weapons\MG\M73.p3d";
                     displayName                                                             = "M73 Light Machine Gun";
@@ -208,6 +206,7 @@
 										frequency = 1;
 										volume = "(1-interior/1.4)*houses";
 									};
+								};
                             };
                             reloadTime 														= 0.0789; 		
                             dispersion 														= 0.00075;
@@ -219,7 +218,6 @@
                             midRangeProbab 													= 0.7;
                             maxRange 														= 600;
                             maxRangeProbab 													= 0.05;
-							};
 					};
                     class FullAuto: Mode_FullAuto
                     {
@@ -389,7 +387,7 @@
 						aiRateOfFire = 10;
 						aiRateOfFireDistance = 900;
 					};
-                    class WeaponSlotsInfo: WeaponSlotsInfo  //Defines attachment slots
+                    class WeaponSlotsInfo  //Defines attachment slots
                     {
 							mass = 140;
 							class MuzzleSlot: MuzzleSlot
@@ -413,7 +411,7 @@
 								linkProxy 							= "\A3\Data_F_Mark\Proxies\Weapon_Slots\UNDERBARREL";
 							};
                     };
-            };
+			};
 			class OPTRE_M73: OPTRE_M73_base
             {
 					dlc = "OPTRE";
@@ -432,75 +430,5 @@
                     {
 							mass = 140;
                     };
-					class LinkedItems
-					{
-					class LinkedItemsOptic
-					{
-					slot = "CowsSlot";
-					item = "OPTRE_M73_SmartLink";
-					};
-					class LinkedItemsUnderbarrel
-					{
-					slot = "UnderBarrelSlot";
-					item = "bipod_01_F_blk";
-					};	
-				};
             };
-		/*class OPTRE_M247: MMG_01_base_F
-        {
-					scope                                                                   = 1;
-                    handAnim[]                                                              = {"OFP2_ManSkeleton", "\A3\weapons_f\Machineguns\M200\data\Anim\M200.rtm"};
-                    model                                                                   = "\OPTRE_Weapons\MG\M247.p3d";
-                    displayName                                                             = "M247 Medium Machine Gun";
-                    descriptionShort                                                        = "UNSC Medium Machine Gun";
-                    picture 																= "";
-                    magazines[]                                                             = {"OPTRE_100Rnd_762x51_Box","OPTRE_100Rnd_762x51_Box_Tracer"};
-                    modelOptics                                                             = "-";
-                    dexterity                                                               = 3.25;
-                    muzzlePos                                                               = "usti hlavne";
-                    muzzleEnd                                                               = "konec hlavne";
-                    reloadAction                                                            = "GestureReloadM200";
-					drySound[] = {"A3\sounds_f\weapons\Other\dry_1",0.56234133,1,10};
-                    inertia                                                                 = 0.95;
-					maxRecoilSway = 0.0125;
-					swayDecaySpeed = 1.25;
-                    reloadTime = 0.0789; 		
-                    dispersion = 0.00085;
-					maxZeroing 																= 1000;
-					discreteDistance[] 														= {100,200,300,400,500,600,700,800,900,1000};
-                    recoil = "recoil_single_ebr";
-                    recoilProne = "recoil_single_prone_ebr";
-                    minRange = 2;
-					mass = 180;
-                    class MuzzleSlot: SlotInfo
-                            {
-                                    access                                                  = 1;
-                                    compatibleitems[]                                       = {"muzzle_snds_B"};
-                                    displayname                                             = "Muzzle Slot";
-                                    linkproxy                                               = "\A3\data_f\proxies\weapon_slots\MUZZLE";
-                                    scope                                                   = 2;
-                            };
-                            class CowsSlot: SlotInfo
-                            {
-                                    access                                                  = 1;
-                                    compatibleitems[]                                       = {"optic_Hamr", "optic_Aco", "optic_Aco_grn", "optic_Arco", "optic_mrco", "optic_nightstalker", "optic_tws", "optic_mrd"};
-                                    displayname                                             = "Optics Slot";
-                                    linkproxy                                               = "\A3\data_f\proxies\weapon_slots\TOP";
-                                    scope                                                   = 2;
-                            };
-                            class PointerSlot: SlotInfo
-                            {
-                                    access                                                  = 1;
-                                    compatibleitems[]                                       = {"acc_pointer_IR", "acc_flashlight"};
-                                    displayname                                             = "Pointer Slot";
-                                    linkproxy                                               = "\A3\data_f\proxies\weapon_slots\SIDE";
-                                    scope                                                   = 2;
-                            };
-							class UnderBarrelSlot: UnderBarrelSlot /// using test bipod
-							{
-								iconPosition[] = {0.2, 0.7};
-								iconScale = 0.2;
-								compatibleItems[] = {"bipod_01_F_blk","bipod_02_F_blk","bipod_03_F_blk"};		
-							};	
-		};*/
 	};

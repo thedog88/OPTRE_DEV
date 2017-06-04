@@ -9,7 +9,7 @@ class OPTRE_HUD_ARM_Menu
 	controlsBackground[] = { };    // no background controls needed
 	
 	onLoad = "OPTRE_Hud_On = false; 0 = _this spawn OPTRE_fnc_Menu;";
-	onUnLoad = "0 = true spawn OPTRE_fnc_ToggleVisor; ";
+	onUnLoad = "0 = true spawn OPTRE_fnc_ToggleVisor;";
 	
  	class Objects {
 	

@@ -86,8 +86,8 @@ class CfgVehicles //This configures units and backpacks
 		vehicleClass													= "OPTRE_UNSC_Man_Airforce_class";
 		uniformClass													= "OPTRE_UNSC_Airforce_Uniform";
 		model															= "\OPTRE_UNSC_Units\Army\uniform.p3d";
-		weapons[] 														= {"OPTRE_MA5B_AC","Throw","Put"};
-		respawnWeapons[] 												= {"OPTRE_MA5B_AC","Throw","Put"};
+		weapons[] 														= {"OPTRE_MA5B","Throw","Put"};
+		respawnWeapons[] 												= {"OPTRE_MA5B","Throw","Put"};
 		magazines[] 													= {"OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		respawnMagazines[] 												= {"OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_60rnd_762x51_Mag","OPTRE_M9_Frag","OPTRE_M9_Frag","OPTRE_M2_Smoke","OPTRE_M2_Smoke_Green"};
 		Items[]															= {"OPTRE_Biofoam"};

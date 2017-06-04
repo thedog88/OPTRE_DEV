@@ -5,6 +5,7 @@ class CfgWeapons
 {
 	class HMG_127;
 	class MGun;
+	class LMG_coax;
 	class RocketPods;
 	class autocannon_35mm;
 	class cannon_120mm;
@@ -20,6 +21,7 @@ class CfgWeapons
 	class gatling_20mm;
 	class gatling_30mm;
 	class Cannon_30mm_Plane_CAS_02_F;
+	class autocannon_40mm_CTWS;
 	
 	class OPTRE_M41_LAAG: HMG_127
 	{
@@ -189,7 +191,7 @@ class CfgWeapons
 	class OPTRE_missiles_C2GMLS: OPTRE_missiles_ASGM2
 	{
 		displayName							= "Class-2 Guided Munitions Launch System";
-		magazines[] 						= {"OPTRE_12Rnd_C2GMLS_missiles"};
+		magazines[] 						= {"OPTRE_12Rnd_C2GMLS_missiles", "OPTRE_2Rnd_C2GMLS_missiles"};
 		maxRange = 4000;
 		weaponLockDelay 					= 2;
 	};
@@ -285,10 +287,66 @@ class CfgWeapons
 		displayName 						= "Magnetic Accelerator Cannon";
 		magazines[] 						= {"OPTRE_1Rnd_MAC_Rounds"};
 	};
+	class OPTRE_M230: gatling_20mm
+	{
+		displayName							= "M230 Autocannon";
+		displayNameShort					= "M230";
+		magazines[] 						= {"OPTRE_100Rnd_50mm_HE","OPTRE_100Rnd_50mm_APFSDS"};
+        modes[] 							= {"FullAuto","close","short","medium"};
+        class FullAuto: MGun
+        {
+            reloadTime = 0.275;
+            dispersion = 0;
+            minRange = 2;
+            minRangeProbab = 0.3;
+            midRange = 300;
+            midRangeProbab = 0.7;
+            maxRange = 800;
+            maxRangeProbab = 0.05;
+        };
+		class close: FullAuto
+		{
+			burst = 3;
+			aiRateOfFire = 0.5;
+			aiRateOfFireDistance = 50;
+			minRange = 10;
+			minRangeProbab = 0.05;
+			midRange = 20;
+			midRangeProbab = 0.7;
+			maxRange = 50;
+			maxRangeProbab = 0.04;
+			showToPlayer = 0;
+		};
+		class short: close
+		{
+			burst = 2;
+			aiRateOfFire = 2;
+			aiRateOfFireDistance = 300;
+			minRange = 50;
+			minRangeProbab = 0.05;
+			midRange = 150;
+			midRangeProbab = 0.7;
+			maxRange = 300;
+			maxRangeProbab = 0.04;
+		};
+		class medium: close
+		{
+			burst = 1;
+			aiRateOfFire = 4;
+			aiRateOfFireDistance = 600;
+			minRange = 200;
+			minRangeProbab = 0.05;
+			midRange = 300;
+			midRangeProbab = 0.7;
+			maxRange = 500;
+			maxRangeProbab = 0.1;
+		};
+	};
 	class OPTRE_M638: gatling_20mm
 	{
 		ballisticsComputer 					= 4;
 		displayName							= "M638 Autocannon";
+		displayNameShort					= "M638";
         modes[] = {"FullAuto","close","short","medium"};
         class FullAuto: MGun
         {
@@ -343,6 +401,7 @@ class CfgWeapons
 	{
 		ballisticsComputer 					= 4;
 		displayName							= "M370 Autocannon";
+		displayNameShort					= "M370";
         modes[] = {"FullAuto","close","short","medium"};
         class FullAuto: MGun
         {
@@ -642,5 +701,163 @@ class CfgWeapons
 		displayName							= "GBU-1071 Laser Guided Bomb";
 		ballisticsComputer					= 8;
 		magazines[] 						= {"OPTRE_4Rnd_GBU_bomb", "OPTRE_8Rnd_GBU_bomb"};
+	};
+	class OPTRE_105mm_M512: cannon_120mm 
+	{
+		magazinereloadTime 					= 4.0;
+		displayName 						= "M512 Smoothbore High-Velocity Cannon";
+		magazines[] 						= {"OPTRE_60Rnd_105mm_APBC","OPTRE_60Rnd_105mm_SAPHE", "OPTRE_60Rnd_105mm_HEAT"};
+		class gunParticles
+		{
+			class FirstEffect
+			{
+				effectName 					= "CannonFired";
+				positionName 				= "Usti hlavne";
+				directionName 				= "Konec hlavne";
+			};
+			class ejectshellcase 
+			{
+				directionName 				= "nabojniceend";
+				effectName 					= "OPTRE_90mmShellcase";
+				positionName 				= "nabojnicestart";
+			};
+		};
+	};
+	class OPTRE_90mm_M556: OPTRE_105mm_M512 
+	{
+		magazinereloadTime 					= 6.0;
+		displayName 						= "M556 Smoothbore High-Velocity Cannon";
+		magazines[] 						= {"OPTRE_30Rnd_90mm_APBC", "OPTRE_30Rnd_90mm_SAPHE", "OPTRE_10Rnd_90mm_S1"};
+	};
+	class OPTRE_M247T_Coax: LMG_coax 
+	{
+		displayName 						= "M247T Coaxial Machine Gun";
+		magazines[] 						= {"OPTRE_100Rnd_762x51_Box_Tracer"};
+		muzzleEnd 							= "konec hlavne2";
+		muzzlePos 							= "usti hlavne2";
+		selectionFireAnim 					= "zasleh2";
+        modes[] 																= {"FullAuto","close","short","medium","far"};
+        class FullAuto: Mode_FullAuto
+        {
+                sounds[] 														= {"StandardSound"};
+                class BaseSoundModeType
+                {
+                        weaponSoundEffect 										= "DefaultRifle";
+                        closure1[] 												= {};
+                        closure2[] 												= {};
+                        soundClosure[] 											= {"closure1",0.5,"closure2",0.5};
+                };
+                class StandardSound: BaseSoundModeType
+                {
+                        begin1[] 												= {"\OPTRE_Weapons\MG\data\sounds\M73_1.wss",1.0,1,2000};
+						begin2[] 												= {"\OPTRE_Weapons\MG\data\sounds\M73_2.wss",1.0,1,2000};
+						soundBegin[] 											= {"begin1",0.34,"begin2",0.33};
+						class SoundTails
+						{
+							class TailTrees
+							{
+								sound[] = {"A3\Sounds_F\arsenal\weapons\Machineguns\Mk200\MK200_tail_trees",1.0,1,1200};
+								frequency = 1;
+								volume = "(1-interior/1.4)*trees";
+							};
+							class TailForest
+							{
+								sound[] = {"A3\Sounds_F\arsenal\weapons\Machineguns\Mk200\MK200_tail_forest",1.0,1,1200};
+								frequency = 1;
+								volume = "(1-interior/1.4)*forest";
+							};
+							class TailInterior
+							{
+								sound[] = {"A3\Sounds_F\arsenal\weapons\Machineguns\Mk200\MK200_tail_interior",1.9952624,1,1200};
+								frequency = 1;
+								volume = "interior";
+							};
+							class TailMeadows
+							{
+								sound[] = {"A3\Sounds_F\arsenal\weapons\Machineguns\Mk200\MK200_tail_meadows",1.0,1,1200};
+								frequency = 1;
+								volume = "(1-interior/1.4)*(meadows/2 max sea/2)";
+							};
+							class TailHouses
+							{
+								sound[] = {"A3\Sounds_F\arsenal\weapons\Machineguns\Mk200\MK200_tail_houses",1.0,1,1200};
+								frequency = 1;
+								volume = "(1-interior/1.4)*houses";
+							};
+						};
+                };
+                reloadTime 														= 0.0789; 		
+				dispersion = 0.001;
+				recoil = "recoil_auto_mk200";
+				recoilProne = "recoil_auto_prone_mk200";
+                minRange  														= 2;
+                minRangeProbab  												= 0.3;
+                midRange = 300;
+                midRangeProbab = 0.7;
+                maxRange = 600;
+                maxRangeProbab = 0.05;
+                soundBurst = 0;
+                burst = 1;
+				displayName = "$STR_DN_MODE_FULLAUTO";
+				textureType = "fullAuto";
+        };
+		class close: FullAuto
+		{
+			burst = 10;
+			aiRateOfFire = 0.5;
+			aiRateOfFireDistance = 50;
+			minRange = 10;
+			minRangeProbab = 0.05;
+			midRange = 20;
+			midRangeProbab = 0.7;
+			maxRange = 50;
+			maxRangeProbab = 0.04;
+			showToPlayer = 0;
+		};
+		class short: close
+		{
+			burst = 8;
+			aiRateOfFire = 2;
+			aiRateOfFireDistance = 300;
+			minRange = 50;
+			minRangeProbab = 0.05;
+			midRange = 150;
+			midRangeProbab = 0.7;
+			maxRange = 300;
+			maxRangeProbab = 0.04;
+		};
+		class medium: close
+		{
+			burst = 7;
+			aiRateOfFire = 4;
+			aiRateOfFireDistance = 600;
+			minRange = 200;
+			minRangeProbab = 0.05;
+			midRange = 300;
+			midRangeProbab = 0.7;
+			maxRange = 500;
+			maxRangeProbab = 0.1;
+		};
+		class far: medium
+		{
+			burst = 3;
+			aiRateOfFire = 10;
+			aiRateOfFireDistance = 1000;
+			minRange = 300;
+			minRangeProbab = 0.05;
+			midRange = 500;
+			midRangeProbab = 0.4;
+			maxRange = 650;
+			maxRangeProbab = 0.01;
+		};
+		class GunParticles 
+		{
+			class effect1 
+			{
+				directionName 				= "konec hlavne2";
+				effectName 					= "MachineGunCloud";
+				positionName 				= "usti hlavne2";
+			};
+		};
 	};
 };

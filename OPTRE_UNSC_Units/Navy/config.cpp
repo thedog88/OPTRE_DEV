@@ -317,9 +317,9 @@ class CfgVehicles
         hiddenSelectionsTextures[] 										= {"OPTRE_UNSC_Units\Navy\data\coveralls_RED_co.paa"};
 		linkedItems[] 													= {"OPTRE_UNSC_Marine_Helmet","OPTRE_UNSC_Marine_Vest_Vacuum","ItemMap","ItemCompass","ItemWatch","ItemRadio","OPTRE_NVG"};
 		respawnLinkedItems[] 											= {"OPTRE_UNSC_Marine_Helmet","OPTRE_UNSC_Marine_Vest_Vacuum","ItemMap","ItemCompass","ItemWatch","ItemRadio","OPTRE_NVG"};
-		weapons[] = {"OPTRE_MA5B_AC","Throw","Put"};
+		weapons[] = {"OPTRE_MA5B","Throw","Put"};
 		magazines[] = {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag"};
-		respawnweapons[] = {"OPTRE_MA5B_AC","Throw","Put"};
+		respawnweapons[] = {"OPTRE_MA5B","Throw","Put"};
 		respawnmagazines[] = {"OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag","OPTRE_60Rnd_762x51_Mag"};
     };
 	class OPTRE_UNSC_Navy_Soldier_Red_SMG: OPTRE_UNSC_Navy_Soldier_Red 

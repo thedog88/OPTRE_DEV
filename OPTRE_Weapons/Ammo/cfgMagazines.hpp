@@ -5,6 +5,8 @@ class CfgMagazines
 	class 30Rnd_45ACP_Mag_SMG_01;
 	class 30Rnd_120mm_APFSDS_shells;
 	class 30Rnd_120mm_HE_shells;
+	class 40Rnd_105mm_APFSDS_T_Green;
+	class 20Rnd_105mm_HEAT_MP_T_Green;
 	class 5Rnd_GAT_missiles;
 	class 4Rnd_GAA_missiles;
 	class 12Rnd_missiles;
@@ -582,6 +584,12 @@ class CfgMagazines
 		displayNameShort 					= "12Rnd Class-2 GMLS";
 		count 								= 12;
 	};
+	class OPTRE_2Rnd_C2GMLS_missiles: OPTRE_12Rnd_C2GMLS_missiles
+	{
+		displayName 						= "2Rnd Class-2 Self-Guided Missiles";
+		displayNameShort 					= "2Rnd Class-2 GMLS";
+		count 								= 2;
+	};
 	class OPTRE_4Rnd_Scorpion_missiles: 4Rnd_Missile_AGM_01_F
 	{
 		dlc = "OPTRE";
@@ -792,6 +800,20 @@ class CfgMagazines
 		ammo = "OPTRE_B_50mm_HE";
 		count = 2500;
 	};
+	class OPTRE_100Rnd_50mm_HE: OPTRE_2500Rnd_50mm_HE
+	{
+		displayName = "100Rnd 50mm HE";
+		author = "Article 2 Studios";
+		count = 100;
+	};
+	class OPTRE_100Rnd_50mm_APFSDS: OPTRE_2500Rnd_50mm_HE
+	{
+		author = "Article 2 Studios";
+		displayName = "100Rnd 50mm APFSDS";
+		displayNameShort = "50mm APFSDS";
+		ammo = "OPTRE_B_50mm_APFSDS";
+		count = 100;
+	};
 	class OPTRE_600Rnd_110mm: OPTRE_2500Rnd_50mm_HE
 	{
 		author = "Article 2 Studios";
@@ -805,6 +827,50 @@ class CfgMagazines
 		displayNameShort = "120mm SAPHE";
 		ammo = "OPTRE_Sh_120mm_SAPHE";
 		count = 120;
+	};
+	class OPTRE_60Rnd_105mm_SAPHE: 40Rnd_105mm_APFSDS_T_Green 
+	{
+		ammo = "OPTRE_Sh_105mm_SAPHE";
+		count = 60;
+		displayname = "105mm SAPHE";
+		displaynameshort = "SAPHE";
+		initspeed = 2000;
+		lastroundstracer = 0;
+		scope = 2;
+		tracersevery = 1;
+	};
+	class OPTRE_60Rnd_105mm_HEAT: OPTRE_60Rnd_105mm_SAPHE
+	{
+		ammo = "OPTRE_Sh_105mm_HEAT";
+		displayname = "105mm HEAT";
+		displaynameshort = "HEAT";
+	};
+	class OPTRE_60Rnd_105mm_APBC: OPTRE_60Rnd_105mm_SAPHE
+	{
+		ammo = "OPTRE_Sh_105mm_APBC";
+		displayname = "105mm AP";
+		displaynameshort = "AP";
+	};
+	class OPTRE_30Rnd_90mm_APBC: 40Rnd_105mm_APFSDS_T_Green 
+	{
+		ammo = "OPTRE_Sh_90mm_APBC";
+		count = 30;
+		displayname = "90mm APBC";
+		displaynameshort = "APBC";
+		tracersevery = 1;
+	};
+	class OPTRE_30Rnd_90mm_SAPHE: OPTRE_30Rnd_90mm_APBC 
+	{
+		ammo = "OPTRE_Sh_90mm_SAPHE";
+		displayname = "90mm SAPHE";
+		displaynameshort = "SAPHE";
+	};
+	class OPTRE_10Rnd_90mm_S1: OPTRE_30Rnd_90mm_APBC 
+	{
+		ammo = "OPTRE_Sh_90mm_S1";
+		displayname = "90mm S1 Canister";
+		displaynameshort = "Canister";
+		count = 10;
 	};
 	class OPTRE_2Rnd_Shiva_nuke_missile: 2Rnd_LG_Scalpel
 	{

@@ -37,8 +37,8 @@ class CfgVehicles
 	{
 		dlc = "OPTRE";
 		model = "OPTRE_Vehicles\genet\genet.p3d";
-		picture = "OPTRE_DEV\optre_vehicles\genet\data\genet_picture_ca.paa";
-		Icon = "OPTRE_DEV\optre_vehicles\genet\data\genet_icon_ca.paa";
+		picture = "optre_vehicles\genet\data\genet_picture_ca.paa";
+		Icon = "optre_vehicles\genet\data\genet_icon_ca.paa";
 		displayName = "HuCiv Genet";
 		hiddenSelections[] = { "camo1" };
 		hiddenSelectionsTextures[] = { "\OPTRE_Vehicles\genet\Data\genet_co.paa" };

@@ -30,6 +30,8 @@ class CfgAmmo
 	class M_Titan_AA; 
 	class M_NLAW_AT_F;
 	class Sh_105mm_HEAT_MP;
+	class Sh_105mm_APFSDS_T_Green;
+	class Sh_105mm_HEAT_MP_T_Green;
 	class Sh_120mm_HE;
 	class Sh_120mm_HE_Tracer_Yellow;
 	class Sh_120mm_APFSDS;
@@ -605,9 +607,15 @@ class CfgAmmo
 		caliber = 6;
 		explosive = 0.8;
 	};
+	class OPTRE_Sh_90mm_APBC : Sh_105mm_APFSDS_T_Green 
+	{
+		//Used by: M808 Scorpion (M512 90mm HVC), M413 Bison
+		caliber = 24;
+		hit =  425;
+	};
 	class OPTRE_Sh_90mm_SAPHE: Sh_120mm_HE
 	{
-		//Used by: M808 Scorpion (M512 90mm HVC)
+		//Used by: M808 Scorpion (M512 90mm HVC), M413 Bison
 		hit = 200;
 		indirectHit = 60;
 		indirectHitRange = 4;
@@ -616,7 +624,7 @@ class CfgAmmo
 	};
 	class OPTRE_Sh_90mm_S1: OPTRE_Sh_90mm_SAPHE
 	{
-		//Used by: M808 Scorpion (M512 90mm HVC)
+		//Used by: M808 Scorpion (M512 90mm HVC), M413 Bison
 		//Experiment with the submunitions simulation when I have more time
 		hit = 20;
 		indirectHit = 20;
@@ -625,6 +633,12 @@ class CfgAmmo
 		explosive = 0;
 		simulation = "shotSpread";
 		typicalspeed = 750;
+	};
+	class OPTRE_Sh_105mm_APBC: Sh_105mm_APFSDS_T_Green
+	{
+		//Used by: M808B Scorpion (M556 105mm HVC)
+		caliber = 26;
+		hit =  475;
 	};
 	class OPTRE_Sh_105mm_SAPHE: Sh_105mm_HEAT_MP
 	{
