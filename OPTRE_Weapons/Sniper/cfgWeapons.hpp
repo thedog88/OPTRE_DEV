@@ -65,10 +65,10 @@ class Mode_FullAuto;
             {
 					dlc = "OPTRE";
                     scope                                                                   = 2;
-                    displayName                                                             = "Oracle N-variant SRS99 Scope";
+                    displayName                                                             = "Oracle N-variant SRS99D Scope";
 					picture 																= "\OPTRE_weapons\sniper\icons\scope.paa";
                     model                                                                   = "\OPTRE_Weapons\Sniper\scope.p3d";
-                    descriptionShort                                                        = "Oracle N-variant SRS99 Sniper Rifle 5-10x56 Scope";
+                    descriptionShort                                                        = "Oracle N-variant SRS99D Sniper Rifle 5-10x56 Scope";
                     weaponInfoType                                                          = "RscOptics_nightstalker";
                     modelOptics                                                     		= "\OPTRE_Weapons\Sniper\scope.p3d";
                     class ItemInfo: InventoryOpticsItem_Base_F
@@ -103,6 +103,20 @@ class Mode_FullAuto;
                             };
                     };
                     inertia                                                                 = 0;
+            };
+			class OPTRE_SRS99C_Scope: OPTRE_SRS99_Scope
+            {
+					dlc = "OPTRE";
+                    scope                                                                   = 2;
+                    displayName                                                             = "Oracle N-variant SRS99C Scope";
+					picture 																= "\OPTRE_weapons\sniper\icons\scope2.paa";
+                    model                                                                   = "\OPTRE_Weapons\Sniper\SRS99C_Scope.p3d";
+                    descriptionShort                                                        = "Oracle N-variant SRS99C Sniper Rifle 5-10x56 Scope";
+                    modelOptics                                                     		= "\OPTRE_Weapons\Sniper\SRS99C_Scope.p3d";
+                    class ItemInfo: ItemInfo
+                    {
+                            modelOptics                                                     = "\OPTRE_Weapons\Sniper\SRS99C_Scope.p3d";
+					};
             };
             //WEAPONS
 			
@@ -290,9 +304,36 @@ class Mode_FullAuto;
                     };
             };
 			
+        class OPTRE_SRS99C: OPTRE_SRS99D
+        {
+			dlc = "OPTRE";
+            model                                                                   = "\OPTRE_Weapons\Sniper\SRS99C.p3d";
+            displayName                                                             = "SRS99C-S2 AM Sniper Rifle";
+            picture 																= "\OPTRE_weapons\sniper\icons\sniper2.paa";
+			handAnim[] 																= {"OFP2_ManSkeleton","\OPTRE_Weapons\Sniper\data\anim\sniper2_handanim.rtm"};
+			deployedPivot															= "bipod";
+			hasBipod																= false;	
+            class WeaponSlotsInfo: WeaponSlotsInfo //Defines attachment slots
+            {
+				class MuzzleSlot: MuzzleSlot
+				{
+					compatibleitems[] 					= {};
+				};
+				class CowsSlot: CowsSlot
+				{
+					compatibleitems[] 					= {"OPTRE_SRS99C_Scope"};
+				};
+				class PointerSlot: PointerSlot
+				{
+					compatibleitems[] 					= {};
+				};
+				mass = 220;
+            };
+        };
+			
 		class OPTRE_SRS99D_SC_LS: OPTRE_SRS99D
 		{
-		dlc = "OPTRE";
+			dlc = "OPTRE";
 			scope = 1;
 			class LinkedItems
 			{
@@ -300,6 +341,20 @@ class Mode_FullAuto;
 				{
 				slot = "CowsSlot";
 				item = "OPTRE_SRS99_Scope";
+				};		
+			};
+		};
+			
+		class OPTRE_SRS99C_SC_LS: OPTRE_SRS99C
+		{
+			dlc = "OPTRE";
+			scope = 1;
+			class LinkedItems
+			{
+				class LinkedItemsOptic
+				{
+					slot = "CowsSlot";
+					item = "OPTRE_SRS99C_Scope";
 				};		
 			};
 		};

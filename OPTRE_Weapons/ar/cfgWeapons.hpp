@@ -486,4 +486,51 @@ class CfgWeapons
             };
         };
     };
+	
+	class OPTRE_MA5K: OPTRE_MA5B
+	{	
+		displayname 																= "MA5K ICWS Carbine";
+		handanim[] 																	= {"OFP2_ManSkeleton","OPTRE_Weapons\ar\data\anim\hand_anim_ma5k.rtm"};
+		magazines[] 																= {"OPTRE_32Rnd_762x51_Mag", "OPTRE_32Rnd_762x51_Mag_Tracer"};
+		model 																		= "\OPTRE_Weapons\AR\MA5K.p3d";
+		picture 																	= "\OPTRE_Weapons\ar\icons\ar_c.paa";
+		reloadtime 																	= .05;
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+            class MuzzleSlot
+            {
+                    access                                                  		= 1;
+                    compatibleitems[]                                       		= {"muzzle_snds_B"};
+                    displayname                                             		= "Muzzle Slot";
+                    linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\MUZZLE";
+                    scope                                                   		= 2;
+            };
+            class CowsSlot
+            {
+                    access                                                  		= 1;
+                    compatibleitems[]                                       		= {"OPTRE_M392_Scope", "OPTRE_BR55HB_Scope", "OPTRE_M7_Sight", "OPTRE_SRS99_Scope"};
+                    displayname                                             		= "Optics Slot";
+                    linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\TOP";
+                    scope                                                   		= 2;
+            };
+            class PointerSlot
+            {
+                    access                                                  		= 1;
+                    compatibleitems[]                                       		= {"acc_pointer_IR", "acc_flashlight"};
+                    displayname                                             		= "Pointer Slot";
+                    linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\SIDE";
+                    scope                                                   		= 2;
+            };
+			mass 																	= 50;
+		};
+        modes[] = {"Single","FullAuto"};
+        class Single: Single
+        {
+            reloadtime = .05;
+        };
+        class FullAuto: FullAuto // here we create a sub class for a our single fire mode, all we need for this weapon is single fire and silenced this is what you double clicked on in the lynx called "single"
+        {
+            reloadtime = .05;
+        };
+	};
 };

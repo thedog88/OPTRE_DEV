@@ -13,7 +13,7 @@ class CfgPatches
 class CfgVehicles
 {
 	class House_F;
-	class secundus_cliff_wall_a: House_F
+	class Land_secundus_cliff_wall_a: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -28,7 +28,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hallway_long: House_F
+	class Land_secundus_hallway_long: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -100,7 +100,7 @@ class CfgVehicles
 		};
 
 	};
-	class secundus_hallway_short: House_F
+	class Land_secundus_hallway_short: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -158,7 +158,7 @@ class CfgVehicles
 		};
 		
 	};
-	class secundus_hallway_decomp_exit: House_F
+	class Land_secundus_hallway_decomp_exit: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -244,7 +244,7 @@ class CfgVehicles
 			};
 		};
 	};
-class secundus_hallway_decomp: House_F
+	class Land_secundus_hallway_decomp: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -316,7 +316,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_stairs: House_F
+	class Land_secundus_hallway_stairs: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -373,7 +373,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_turn: House_F
+	class Land_secundus_hallway_turn: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -430,7 +430,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_turn_exterior: House_F
+	class Land_secundus_hallway_turn_exterior: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -487,7 +487,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_t_intersection: House_F
+	class Land_secundus_hallway_t_intersection: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -502,7 +502,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hallway_x_intersection: House_F
+	class Land_secundus_hallway_x_intersection: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -517,7 +517,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hangar_1: House_F
+	class Land_secundus_hangar_1: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -532,7 +532,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hangar_2: House_F
+	class Land_secundus_hangar_2: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -547,7 +547,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hangar_3: House_F
+	class Land_secundus_hangar_3: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -562,7 +562,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hangar_4: House_F
+	class Land_secundus_hangar_4: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -577,7 +577,7 @@ class secundus_hallway_decomp: House_F
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Highway";
 	};
-	class secundus_hallway_window_v1: House_F
+	class Land_secundus_hallway_window_v1: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -648,7 +648,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_window_v2: House_F
+	class Land_secundus_hallway_window_v2: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -732,7 +732,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_room_small: House_F
+	class Land_secundus_room_small: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -803,7 +803,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_room_medium: House_F
+	class Land_secundus_room_medium: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -874,7 +874,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_room_large: House_F
+	class Land_secundus_room_large: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;
@@ -960,7 +960,7 @@ class secundus_hallway_decomp: House_F
 			};
 		};
 	};
-	class secundus_hallway_door: House_F
+	class Land_secundus_hallway_door: House_F
 	{
 		dlc = "OPTRE";
 		scope = 2;

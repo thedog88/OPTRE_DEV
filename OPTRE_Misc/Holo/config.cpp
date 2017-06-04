@@ -20,9 +20,9 @@ enum {
 class CfgPatches
 {
 	
-	class OPTRE_UNSC_Structure_CityObjects
+	class OPTRE_UNSC_Structure_HoloObjects
     {
-        units[] = {};
+        units[] = {"OPTRE_holo_frigate", "OPTRE_holo_longsword", "OPTRE_holo_pelican", "OPTRE_holo_data_chip", "OPTRE_AI_Ball", "OPTRE_Holo_eridanus"};
         weapons[] = {};
         requiredVersion = 0.1;
         requiredAddons[] = {"A3_structures_f","OPTRE_Core"};
@@ -33,7 +33,7 @@ class CfgVehicles
 {
 	class House_F;
 	
-	class holo_frigate: House_F
+	class OPTRE_holo_frigate: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\final_dawn_0.001.p3d";
@@ -45,7 +45,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Objects";
 		editorSubcategory = "OPTRE_EditorSubcategory_Objects_Civilian";
 	};
-	class holo_longsword: House_F
+	class OPTRE_holo_longsword: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\longsword_0.001.p3d";
@@ -57,7 +57,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Objects";
 		editorSubcategory = "OPTRE_EditorSubcategory_Objects_Civilian";
 	};
-	class holo_pelican: House_F
+	class OPTRE_holo_pelican: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\pelican_0.001.p3d";
@@ -69,7 +69,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Objects";
 		editorSubcategory = "OPTRE_EditorSubcategory_Objects_Civilian";
 	};
-	class holo_data_chip: House_F
+	class OPTRE_holo_data_chip: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\data_chip_holo.p3d";
@@ -81,7 +81,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Objects";
 		editorSubcategory = "OPTRE_EditorSubcategory_Objects_Civilian";
 	};
-	class AI_Ball: House_F
+	class OPTRE_AI_Ball: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\AI_ball.p3d";
@@ -93,7 +93,7 @@ class CfgVehicles
 		editorCategory = "OPTRE_EditorCategory_Objects";
 		editorSubcategory = "OPTRE_EditorSubcategory_Objects_Civilian";
 	};
-		class Holo_eridanus: House_F
+	class OPTRE_Holo_eridanus: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Misc\holo\Holo_eridanus.p3d";
@@ -110,25 +110,18 @@ class CfgVehicles
 	
 class CfgWeapons
 {
-	class FirstAidKit;
-	class InventoryFirstAidKitItem_Base_F;
-	class Medikit;
-	class MedikitItem;
+	class ItemCore;
 
-	class OPTRE_Datachip: FirstAidKit
+	class OPTRE_Datachip: ItemCore
 	{
 		dlc = "OPTRE";
+		type										= 131072;
 		scope 										= 2;
 		scopeArsenal 								= 2;
 		displayName 								= "[UNSC] AI Data Chip";
 		picture 									= "\OPTRE_Misc\holo\Icons\datachip.paa";
 		model 										= "\OPTRE_Misc\holo\data_chip.p3d";
 		descriptionShort 							= "Data Crystal Chip which can store any type of Data.";
-		weaponInfoType 								= "RscWeaponZeroing";
-		class ItemInfo: MedikitItem
-		{
-			mass=1;
-		};
 	};
 };
 

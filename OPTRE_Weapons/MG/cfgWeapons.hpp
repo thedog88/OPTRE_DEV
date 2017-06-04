@@ -423,6 +423,7 @@
 					swayDecaySpeed 															= 1.15;
                     scope                                                                   = 2;
 					scopeArsenal															= 2;
+					baseWeapon 																= "OPTRE_M73";
                     modes[] 																= {"Single","FullAuto"};
                     class Single: Single {};
                     class FullAuto: FullAuto {};

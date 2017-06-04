@@ -171,6 +171,7 @@ class CfgWeapons
 					dlc = "OPTRE";
                     scope                                                                   = 2;
                     scopeArsenal                                                            = 2;
+					baseWeapon 																= "OPTRE_M7";
                     handAnim[]                                                              = {"OFP2_ManSkeleton", "\OPTRE_Weapons\smg\data\anim\smg_handanim2.rtm"};
 					model                                                                   = "\OPTRE_Weapons\SMG\SMG.p3d";
                     displayName                                                             = "M7/Caseless SMG";
@@ -444,6 +445,7 @@ class CfgWeapons
 					reloadAction 															= "GestureReloadPistol";
 					model                                                                   = "\OPTRE_Weapons\SMG\SMG_folded.p3d";
                     displayName                                                             = "M7/Caseless SMG (Folded)";
+					baseWeapon 																= "OPTRE_M7_Folded";
                     descriptionShort                                                        = "UNSC M7 SMG (Folded)";
 					type 																	= 2;
 					recoil = "recoil_mx";
