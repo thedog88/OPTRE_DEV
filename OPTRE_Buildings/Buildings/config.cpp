@@ -64,6 +64,25 @@ class CfgVehicles
 		displayName="Small Warehouse";
 		editorCategory = "OPTRE_EditorCategory_Buildings";
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Civilian";
+		ladders[] =
+		{
+			{
+				"start1",
+				"end1"
+			}
+			{
+				"start2",
+				"end2"
+			}
+			{
+				"start3",
+				"end3"
+			}
+			{
+				"start4",
+				"end4"
+			}
+		};
 	};
 	
 	/*class Land_Oni_Main: House_F

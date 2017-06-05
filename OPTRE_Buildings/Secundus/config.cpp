@@ -1,7 +1,7 @@
 class CfgPatches
 {
 	
-	class OPTRE_UNSC_Structure_Highway
+	class OPTRE_UNSC_Structure_Secundus
     {
         units[] = {};
         weapons[] = {};

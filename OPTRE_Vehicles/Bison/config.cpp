@@ -145,11 +145,13 @@ class CfgVehicles
 				};
 				class ViewGunner: ViewGunner
 				{
-					//maxAngleY = 60; //test
-					//minAngleY = -240; //test
-					maxAngleY = -90;
-					minAngleY = -90;
-					initAngleY = -90;
+					initAngleX = 0;
+					minAngleX = -90;
+					maxAngleX = 90;
+					initFov = 0.9;
+					minFov = 0.42;
+					maxFov = 0.9;
+					visionMode[] = {};
 				};
 				showCrewAim = 2;
 				class HitPoints

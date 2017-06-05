@@ -131,7 +131,7 @@ class CfgVehicles
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Skyscraper";
 	};
 	
-		class Land_J_Tower_a_2: House_F
+	class Land_J_Tower_a_2: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Buildings\Towers\J_Tower_a_2";
@@ -157,7 +157,7 @@ class CfgVehicles
 		editorSubcategory = "OPTRE_EditorSubcategory_Buildings_Skyscraper";
 	};
 	
-		class Land_J_Tower_b_2: House_F
+	class Land_J_Tower_b_2: House_F
 	{
 		dlc = "OPTRE";
 		model="\OPTRE_Buildings\Towers\J_Tower_b_2";

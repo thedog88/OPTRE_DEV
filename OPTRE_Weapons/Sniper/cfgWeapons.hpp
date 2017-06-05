@@ -285,7 +285,7 @@ class Mode_FullAuto;
 							class CowsSlot
 							{
 								access 								= 1;
-								compatibleitems[] 					= {"OPTRE_M392_Scope", "OPTRE_BR55HB_Scope", "OPTRE_M7_Sight", "OPTRE_SRS99_Scope"};
+								compatibleitems[] 					= {"OPTRE_SRS99_Scope"};
 								displayname 						= "Optics Slot";
 								linkproxy 							= "\A3\data_f\proxies\weapon_slots\TOP";
 								scope 								= 2;
@@ -312,7 +312,7 @@ class Mode_FullAuto;
             picture 																= "\OPTRE_weapons\sniper\icons\sniper2.paa";
 			handAnim[] 																= {"OFP2_ManSkeleton","\OPTRE_Weapons\Sniper\data\anim\sniper2_handanim.rtm"};
 			deployedPivot															= "bipod";
-			hasBipod																= false;	
+			hasBipod																= true;	
             class WeaponSlotsInfo: WeaponSlotsInfo //Defines attachment slots
             {
 				class MuzzleSlot: MuzzleSlot
