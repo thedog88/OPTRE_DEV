@@ -358,34 +358,60 @@ class CfgWeapons
                 discreteDistanceCameraPoint[] 									= {"OP_eye", "OP_eye2", "OP_eye3", "OP_eye4"}; /// the angle of gun changes with zeroing
                 discreteDistanceInitIndex 										= 0; /// 200 is the default zero
         };
-        class WeaponSlotsInfo : WeaponSlotsInfo //Defines attachment slots
+    };
+
+    /*class OPTRE_MA5C: OPTRE_MA5B
+    {
+		dlc = "OPTRE";
+        model                                                                   	= "\OPTRE_Weapons\AR\MA5C.p3d";
+        displayName                                                             	= "MA5C ICWS Assault Rifle";
+		HUD_TotalPosibleBullet														= 32;
+        magazines[]                                                             	= {"OPTRE_32Rnd_762x51_Mag","OPTRE_32Rnd_762x51_Mag_Tracer"};
+        class Single: Single
         {
-            class MuzzleSlot: MuzzleSlot
-            {
-                access                                                  		= 1;
-                compatibleitems[]                                       		= {"muzzle_snds_B"};
-                displayname                                             		= "Muzzle Slot";
-                linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\MUZZLE";
-                scope                                                   		= 2;
-            };
-            class CowsSlot: CowsSlot
-            {
-                access                                                  		= 1;
-                compatibleitems[]                                       		= {"OPTRE_M392_Scope", "OPTRE_BR55HB_Scope", "OPTRE_M7_Sight", "OPTRE_SRS99_Scope"};
-                displayname                                             		= "Optics Slot";
-                linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\TOP";
-                scope                                                   		= 2;
-            };
-            class PointerSlot: PointerSlot
-            {
-                access                                                  		= 1;
-                compatibleitems[]                                       		= {"acc_pointer_IR", "acc_flashlight"};
-                displayname                                             		= "Pointer Slot";
-                linkproxy                                               		= "\A3\data_f\proxies\weapon_slots\SIDE";
-                scope                                                   		= 2;
-            };
+            reloadTime 																= 0.092;
+        };
+        class FullAuto: FullAuto
+        {
+			reloadTime 																= 0.092;
         };
     };
+    class OPTRE_MA5CGL: OPTRE_MA5C
+    {
+		dlc = "OPTRE";
+        handAnim[]                                                              = {"OFP2_ManSkeleton", "\OPTRE_Weapons\AR\data\anim\hand_anim_ma5c.rtm"};
+        model                                                                   = "\OPTRE_Weapons\AR\MA5CGL.p3d";
+        displayName                                                             = "MA5C + M301 GL Assault Rifle";
+        descriptionShort                                                        = "UNSC Assault Rifle + GL";
+        muzzles[]                                                          	 	= {"this", "M309GL"};
+        class M309GL: UGL_F
+        {
+                displayName 													= "M301 Grenade Launcher";
+                descriptionShort 												= "M301 GL";
+                useModelOptics 													= false;
+                useExternalOptic 												= false;
+                magazines[] =
+				{
+					"1Rnd_HE_Grenade_shell",
+					"UGL_FlareWhite_F",
+					"UGL_FlareGreen_F",
+					"UGL_FlareRed_F",
+					"UGL_FlareYellow_F",
+					"UGL_FlareCIR_F",
+					"1Rnd_Smoke_Grenade_shell",
+					"1Rnd_SmokeRed_Grenade_shell",
+					"1Rnd_SmokeGreen_Grenade_shell",
+					"1Rnd_SmokeYellow_Grenade_shell",
+					"1Rnd_SmokePurple_Grenade_shell",
+					"1Rnd_SmokeBlue_Grenade_shell",
+					"1Rnd_SmokeOrange_Grenade_shell"
+				};
+                cameraDir 														= "OP_look";
+                discreteDistance[] 												= {100, 200, 300, 400};
+                discreteDistanceCameraPoint[] 									= {"OP_eye", "OP_eye2", "OP_eye3", "OP_eye4"}; /// the angle of gun changes with zeroing
+                discreteDistanceInitIndex 										= 0; /// 200 is the default zero
+        };
+    };*/
     class OPTRE_MA5A: OPTRE_MA5B
     {
 		dlc = "OPTRE";
