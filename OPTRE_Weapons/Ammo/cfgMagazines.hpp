@@ -543,6 +543,13 @@ class CfgMagazines
 		displayNameShort 					= "48Rnd Guided AA";
 		count 								= 48;
 	};
+	class OPTRE_8Rnd_ASGM4_rockets : OPTRE_6Rnd_ASGM2_rockets 
+	{
+		ammo = "OPTRE_M_ASGM4_AA";
+		count = 8;
+		displayName = "8Rnd ASGM-4 Rockets";
+		displaynameshort = "8Rnd AAAT";
+	};
 	class OPTRE_4Rnd_ASGM10_missiles: 4Rnd_GAA_missiles
 	{
 		dlc = "OPTRE";

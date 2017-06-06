@@ -727,6 +727,33 @@ class CfgAmmo
 		airLock = 2;
 		irLock = 1;
 	};
+	class OPTRE_M_ASGM4_AA : M_Air_AA
+	{
+		// Used by: LAU-65 (Submunition)
+		model = "OPTRE_Weapons\static\LAU65D\Rocket\ASGM4_missile_fly.p3d";
+		initTime = 0.5;
+		missileLockCone = 120;
+		airFriction = 0.05;
+		maxspeed = 600;
+		fuseDistance = 50;
+		maneuvrability = 15;
+		sideAirFriction = 0.1;
+		thrust = 385;
+		thrustTime = 2.5;
+		trackLead = 1;
+		trackOversteer = 1;
+		airLock = 1;
+		irLock = 1;
+		explosive = 0.6;
+		indirectHit = 50;
+		indirectHitRange = 7;
+		hit = 200;
+		//ai and usage
+		aiAmmoUsageFlags = "128+256+512";
+		weaponLockSystem = "2 + 16";
+		missileLockMinDistance = 100;
+		missileLockMaxDistance = 3000;
+	}; 
 	class OPTRE_M_C2GMLS_AA: OPTRE_M_ASGM2_AA
 	{
 		//Used by: AV-14 Hornet
