@@ -111,31 +111,6 @@ class CfgVehicles
 				armor = 4;
 			};
 		};
-		class Wounds /// changes material of skin according to damage
-		{
-			tex[] = {};
-			mat[] = {
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",	
-
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat"					
-			};
-		};
 		editorSubcategory = "OPTRE_FC_EditorSubcategory_Marines";
 	};
 	class OPTRE_FC_Marines_Soldier_L: OPTRE_FC_Marines_Soldier
@@ -147,31 +122,6 @@ class CfgVehicles
 		respawnLinkedItems[] 											= {"OPTRE_FC_Marines_Vest_L","OPTRE_FC_Marines_Helmet","ItemMap","ItemCompass","ItemWatch","ItemRadio","OPTRE_NVG"};
 		hiddenSelections[] 												= {"camo1","attach_kneepads","attach_sleeves"}; //Determines what hiddenselections are enabled
 		hiddenSelectionsTextures[] 										= {"optre_fc_units\marines\data\h3_uniform_co.paa"};
-		class Wounds /// changes material of skin according to damage
-		{
-			tex[] = {};
-			mat[] = {
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",	
-
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",	
-				
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
-				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat"					
-			};
-		};
 	};	
 	class OPTRE_FC_Marines_Soldier_WDL: OPTRE_FC_Marines_Soldier
 	{

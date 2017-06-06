@@ -12,7 +12,7 @@ class CfgWeapons
         scopeArsenal                                                            = 1;
         handAnim[]                                                            	= {"OFP2_ManSkeleton", "\OPTRE_FC_Weapons\EnergySword\data\sword_handanim.rtm"};
         model                                                                   = "\OPTRE_FC_Weapons\EnergySword\EnergySword.p3d";
-        displayName                                                             = "[Covenant] Type-1 Energy Sword";
+        displayName                                                             = "Type-1 Energy Sword";
         descriptionShort                                                        = "Covenant Energy Sword";
         //picture 																= "\OPTRE_FC_Weapons\PlasmaPistol\icons\PlasmaRifle_ca.paa";
 		//drySound[] 															= {"A3\sounds_f\weapons\Other\dry_1",0.56234133,1,10};

@@ -12,7 +12,7 @@ class CfgWeapons
         scopeArsenal                                                            = 2;
         handAnim[]                                                              = {"OFP2_ManSkeleton", "\OPTRE_FC_Weapons\PlasmaRifle\data\anim\handanim.rtm"};
         model                                                                   = "\OPTRE_FC_Weapons\Carbine\Carbine.p3d";
-        displayName                                                             = "[Covenant] Type-51 Carbine";
+        displayName                                                             = "Type-51 Carbine";
         descriptionShort                                                        = "Covenant Carbine";
         //picture 																= "\OPTRE_FC_Weapons\Carbine\icons\Carbine_ca.paa";
 		//drySound[] 															= {"A3\sounds_f\weapons\Other\dry_1",0.56234133,1,10};

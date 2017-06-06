@@ -218,7 +218,7 @@ class cfgWeapons
 		dlc = "OPTRE";
 		scope															= 2;
 		author															= "Article 2 Studios";
-		displayName														= "[PD] Police Uniform";
+		displayName														= "Police Uniform";
 		model															= "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		class ItemInfo: UniformItem
 		{
